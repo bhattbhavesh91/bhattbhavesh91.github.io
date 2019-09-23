@@ -85,6 +85,7 @@ author:
   bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Mumbai, India"
   email            : "bhattbhavesh91@gmail.com"
+  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
   uri              :
   bitbucket        :
   codepen          :
@@ -107,8 +108,6 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
-
 
 # Reading Files
 include:
