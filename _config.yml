@@ -171,8 +171,11 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# target-blank:
+#   css_class: ext-link
+
 target-blank:
-  css_class: ext-link
+    noopener: false
 
 # Outputting
 permalink: /:categories/:title/
