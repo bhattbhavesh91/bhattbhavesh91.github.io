@@ -176,6 +176,7 @@ sass:
 
 target-blank:
     noopener: false
+    rel: noopener
 
 # Outputting
 permalink: /:categories/:title/
