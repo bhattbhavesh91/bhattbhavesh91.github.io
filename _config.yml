@@ -109,16 +109,18 @@ analytics:
 author:
   name             : "Bhavesh Bhatt"
   avatar           : "/assets/images/bhavesh.jpeg"
+  # bio              : "Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket."
   bio              : "Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket."
   location         : "Mumbai, India"
-  email            :
+  email            : "bhattbhavesh91@gmail.com"
+  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "Website"
+    - label: "YouTube"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.youtube.com/BhaveshBhatt8791"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "http://twitter.com/_bhaveshbhatt"
