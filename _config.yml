@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Bhavesh Bhatt"
   avatar           : "/assets/images/bhavesh.jpeg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket."
   location         : "Mumbai, India"
   email            :
   links:
@@ -121,13 +121,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "http://twitter.com/_bhaveshbhatt"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/bhattbhavesh91/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
