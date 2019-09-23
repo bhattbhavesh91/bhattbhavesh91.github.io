@@ -81,7 +81,8 @@ analytics:
 author:
   name             : "Bhavesh Bhatt"
   avatar           : "/assets/images/bhavesh.jpeg"
-  bio              : #"Bio test"
+  #bio              : "Data Scientist, Google Develeoper Expert in ML"
+  bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Mumbai, India"
   email            : "bhattbhavesh91@gmail.com"
   uri              :
