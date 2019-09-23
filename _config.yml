@@ -108,7 +108,6 @@ author:
   vine             :
   weibo            :
   xing             :
-
   links:
       - label: "Email"
         icon: "fas fa-fw fa-envelope-square"
@@ -128,9 +127,9 @@ author:
       - label: "Instagram"
         icon: "fab fa-fw fa-instagram"
         # url: "https://instagram.com/"
-      - label: "YouTube"
-        icon: "fab fa-fw fa-youtube"
-        url: "https://www.youtube.com/BhaveshBhatt8791"
+      # - label: "YouTube"
+      #   icon: "fab fa-fw fa-youtube"
+      #   url: "https://www.youtube.com/BhaveshBhatt8791"
 
 # Reading Files
 include:
