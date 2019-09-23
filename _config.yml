@@ -110,7 +110,7 @@ author:
   name             : "Bhavesh Bhatt"
   avatar           : "/assets/images/bhavesh.jpeg"
   # bio              : "Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket."
-  bio              : "Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket."
+  # bio              : ""
   location         : "Mumbai, India"
   email            : "bhattbhavesh91@gmail.com"
   youtube          : "https://www.youtube.com/BhaveshBhatt8791"
@@ -291,7 +291,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
