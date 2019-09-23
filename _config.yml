@@ -114,13 +114,14 @@ author:
   location         : "Mumbai, India"
   email            : "bhattbhavesh91@gmail.com"
   youtube          : "https://www.youtube.com/BhaveshBhatt8791"
+  linkedin         : "bhattbhavesh91"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-    - label: "YouTube"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.youtube.com/BhaveshBhatt8791"
+    # - label: "YouTube"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://www.youtube.com/BhaveshBhatt8791"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "http://twitter.com/_bhaveshbhatt"
