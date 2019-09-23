@@ -5,16 +5,18 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en"
-title                    : "Home"
+title                    : "Bhavesh Bhatt"
 title_separator          : "-"
-name                     : "Andrew Hintermeier"
-description              : #"An amazing website."
+name                     : "Bhavesh Bhatt"
+description              : "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : andhint/andhint.github.io"
-teaser                   : "/images/bg.jpeg"
+repository               : # andhint/andhint.github.io"
+teaser                   : #"/images/bg.jpeg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -77,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Hintermeier"
-  avatar           : "images/profile.png"
+  name             : "Bhavesh Bhatt"
+  avatar           : "/assets/images/bhavesh.jpeg"
   bio              : #"Bio test"
-  location         : "Buffalo, NY"
-  email            : "andrew.hintermeier@gmail.com"
+  location         : "Mumbai, India"
+  email            : "bhattbhavesh91@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +91,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "andhint"
+  github           : "bhattbhavesh91"
   google_plus      :
   keybase          :
-  instagram        : "andhint"
+  instagram        : 
   lastfm           :
-  linkedin         : "hintermeier"
+  linkedin         : "bhattbhavesh91"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -104,7 +106,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/BhaveshBhatt8791"
 
 
 # Reading Files
