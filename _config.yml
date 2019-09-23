@@ -77,59 +77,85 @@ analytics:
     tracking_id          :
 
 
-# Site Author
 author:
   name             : "Bhavesh Bhatt"
-  avatar           : "/assets/images/bhavesh.jpeg"
-  #bio              : "Data Scientist, Google Develeoper Expert in ML"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Mumbai, India"
-  email            : #"bhattbhavesh91@gmail.com"
-  youtube          : #"https://www.youtube.com/BhaveshBhatt8791"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"bhattbhavesh91"
-  google_plus      :
-  keybase          :
-  instagram        : 
-  lastfm           :
-  linkedin         : #"bhattbhavesh91"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : #"_bhaveshbhatt"
-  vine             :
-  weibo            :
-  xing             :
+  email            :
   links:
-      - label: "Email"
-        icon: "fas fa-fw fa-envelope-square"
-        url: mailto:"bhattbhavesh91@gmail.com"
-      - label: "Website"
-        icon: "fas fa-fw fa-link"
-        # url: "https://your-website.com"
-      - label: "Twitter"
-        icon: "fab fa-fw fa-twitter-square"
-        url: "https://twitter.com/_bhaveshbhatt"
-      - label: "Facebook"
-        icon: "fab fa-fw fa-facebook-square"
-        # url: "https://facebook.com/"
-      - label: "GitHub"
-        icon: "fab fa-fw fa-github"
-        url: "https://github.com/bhattbhavesh91/"
-      - label: "Instagram"
-        icon: "fab fa-fw fa-instagram"
-        # url: "https://instagram.com/"
-      # - label: "YouTube"
-      #   icon: "fab fa-fw fa-youtube"
-      #   url: "https://www.youtube.com/BhaveshBhatt8791"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:your.name@email.com
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/_bhaveshbhatt"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bhattbhavesh91"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# # Site Author
+# author:
+#   name             : "Bhavesh Bhatt"
+#   avatar           : "/assets/images/bhavesh.jpeg"
+#   #bio              : "Data Scientist, Google Develeoper Expert in ML"
+#   bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
+#   location         : "Mumbai, India"
+#   email            : #"bhattbhavesh91@gmail.com"
+#   youtube          : #"https://www.youtube.com/BhaveshBhatt8791"
+#   uri              :
+#   bitbucket        :
+#   codepen          :
+#   dribbble         :
+#   flickr           :
+#   facebook         :
+#   foursquare       :
+#   github           : #"bhattbhavesh91"
+#   google_plus      :
+#   keybase          :
+#   instagram        : 
+#   lastfm           :
+#   linkedin         : #"bhattbhavesh91"
+#   pinterest        :
+#   soundcloud       :
+#   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+#   steam            :
+#   tumblr           :
+#   twitter          : #"_bhaveshbhatt"
+#   vine             :
+#   weibo            :
+#   xing             :
+#   links:
+#       - label: "Email"
+#         icon: "fas fa-fw fa-envelope-square"
+#         url: mailto:"bhattbhavesh91@gmail.com"
+#       - label: "Website"
+#         icon: "fas fa-fw fa-link"
+#         # url: "https://your-website.com"
+#       - label: "Twitter"
+#         icon: "fab fa-fw fa-twitter-square"
+#         url: "https://twitter.com/_bhaveshbhatt"
+#       - label: "Facebook"
+#         icon: "fab fa-fw fa-facebook-square"
+#         # url: "https://facebook.com/"
+#       - label: "GitHub"
+#         icon: "fab fa-fw fa-github"
+#         url: "https://github.com/bhattbhavesh91/"
+#       - label: "Instagram"
+#         icon: "fab fa-fw fa-instagram"
+#         # url: "https://instagram.com/"
+#       # - label: "YouTube"
+#       #   icon: "fab fa-fw fa-youtube"
+#       #   url: "https://www.youtube.com/BhaveshBhatt8791"
 
 # Reading Files
 include:
