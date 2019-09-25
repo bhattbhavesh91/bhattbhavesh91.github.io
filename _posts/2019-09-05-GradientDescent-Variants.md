@@ -1,6 +1,6 @@
 ---
 title:  "Stochastic vs Batch vs Mini-Batch Gradient Descent"
-date:   2019-09-21 17:00:00
+date:   2019-09-05 17:00:00
 categories: [linear-regression]
 tags: [linear-regression]
 
