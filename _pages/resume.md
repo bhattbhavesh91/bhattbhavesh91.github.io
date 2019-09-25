@@ -7,10 +7,12 @@ title: "Resume"
 Data Scientist & Electronics Engineer  
 <!---View my pdf resume [here](https://github.com/bhattbhavesh91/resume/raw/master/Resume_Bhavesh_Bhatt.pdf). -->
 
+<!---
 ### Contact Info
 * Email: bhattbhavesh91@gmail.com
 * Phone: (+91) 9987383204
 * Linkedin: https://www.linkedin.com/in/bhattbhavesh91/
+-->
 
 ### Summary
 Experienced data scientist with 3.5+ years of industry experience along with masters from BITS Pilani.
@@ -34,7 +36,7 @@ Concepts - Linear Regression, Decision Tree, Random Forest, PCA
 ### Work Experience
 * **Data Scientist** at **FlexiLoans**, Mumbai (Nov 2017 - Present)  
 Designed and deployed multiple models on deep learning, text matching, natural language processing.  
-Formulated queries \& extracted data from the database and performed visualizations.  
+Formulated queries & extracted data from the database and performed visualizations.  
 
 * **Software Engineer II** at **Cisco Systems**, Bengaluru (Jan - May 2017)  
 Implemented a python script to automate a manual router image compilation process.
