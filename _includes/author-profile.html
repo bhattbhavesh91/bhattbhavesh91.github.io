@@ -36,7 +36,7 @@
 
       {% if author.uri %}
         <li>
-          <a href="{{ author.uri }}" itemprop="url">
+          <a href="{{ author.uri }}" itemprop="url" target="_blank">
             <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
           </a>
         </li>
@@ -61,7 +61,7 @@
 
       {% if author.twitter %}
         <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs" target="_blank">
             <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
           </a>
         </li>
