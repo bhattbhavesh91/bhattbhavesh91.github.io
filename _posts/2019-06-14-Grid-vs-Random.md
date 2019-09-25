@@ -1,6 +1,6 @@
 ---
 title:  "Grid vs Random Search Hyperparameter Tuning using Python"
-date:   2019-07-14 17:00:00
+date:   2019-06-14 17:00:00
 categories: [hyperparameter-tuning, random-search, grid-search]
 tags: [hyperparameter-tuning, random-search, grid-search]
 
