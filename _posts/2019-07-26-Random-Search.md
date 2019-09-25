@@ -1,6 +1,6 @@
 ---
 title:  "Random Search for Hyper-parameter Optimization"
-date:   2019-08-01 17:00:00
+date:   2019-07-26 17:00:00
 categories: [hyperparameter-tuning, random-search]
 tags: [hyperparameter-tuning, random-search]
 
