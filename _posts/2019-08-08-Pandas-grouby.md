@@ -13,7 +13,7 @@ One aspect that I’ve recently been exploring is the task of grouping large dat
 In this video, I will try to present a simple example which demonstrates the power of GroupBy function of Pandas!
 
 ## To view the video
-* [Click here](https://youtu.be/nulx_VmV7dE)
+* [Click here](https://youtu.be/nulx_VmV7dE){:target="_blank"}
 * Click on the image below
 
-[![Pandas GroupBy Simplest Example using Python](http://img.youtube.com/vi/nulx_VmV7dE/0.jpg)](http://www.youtube.com/watch?v=nulx_VmV7dE)
+[![Pandas GroupBy Simplest Example using Python](http://img.youtube.com/vi/nulx_VmV7dE/0.jpg)](http://www.youtube.com/watch?v=nulx_VmV7dE){:target="_blank"}

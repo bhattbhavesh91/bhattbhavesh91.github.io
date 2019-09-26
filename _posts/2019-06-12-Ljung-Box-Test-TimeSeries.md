@@ -10,7 +10,7 @@ Ljung-Box test for autocorrrelation. This test is widely used in econometrics to
 
 
 ## To view the video
-* [Click here](https://youtu.be/caXvSH_EltM)
+* [Click here](https://youtu.be/caXvSH_EltM){:target="_blank"}
 * Click on the image below
 
-[![Ljung-Box Test for Detecting White Noise using Python](http://img.youtube.com/vi/caXvSH_EltM/0.jpg)](http://www.youtube.com/watch?v=caXvSH_EltM)
+[![Ljung-Box Test for Detecting White Noise using Python](http://img.youtube.com/vi/caXvSH_EltM/0.jpg)](http://www.youtube.com/watch?v=caXvSH_EltM){:target="_blank"}

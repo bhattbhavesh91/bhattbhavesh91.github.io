@@ -14,7 +14,7 @@ In this video, I will focus on two methods for hyperparameter tuning - Grid v/s 
 
 
 ## To view the video
-* [Click here](https://youtu.be/Ah4wsTXghwI)
+* [Click here](https://youtu.be/Ah4wsTXghwI){:target="_blank"}
 * Click on the image below
 
-[![Random Search for Hyper-parameter Optimization](http://img.youtube.com/vi/Ah4wsTXghwI/0.jpg)](http://www.youtube.com/watch?v=Ah4wsTXghwI)
+[![Random Search for Hyper-parameter Optimization](http://img.youtube.com/vi/Ah4wsTXghwI/0.jpg)](http://www.youtube.com/watch?v=Ah4wsTXghwI){:target="_blank"}

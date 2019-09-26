@@ -13,7 +13,7 @@ If you do have any questions with what we covered in this video then feel free t
 If you enjoy these tutorials & would like to support them then the easiest way is to simply like the video & give it a thumbs up & also it's a huge help to share these videos with anyone who you think would find them useful.
 
 ## To view the video
-* [Click here](https://youtu.be/RhmzJ0hfJjM)
+* [Click here](https://youtu.be/RhmzJ0hfJjM){:target="_blank"}
 * Click on the image below
 
-[![Visualizing Eigenvectors using Matplotlib](http://img.youtube.com/vi/RhmzJ0hfJjM/0.jpg)](http://www.youtube.com/watch?v=RhmzJ0hfJjM)
+[![Visualizing Eigenvectors using Matplotlib](http://img.youtube.com/vi/RhmzJ0hfJjM/0.jpg)](http://www.youtube.com/watch?v=RhmzJ0hfJjM){:target="_blank"}

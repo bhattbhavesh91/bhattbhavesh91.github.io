@@ -12,7 +12,7 @@ How is Numpy so fast? In this video we find out how Numpy’s ndarray is stored 
 
 
 ## To view the video
-* [Click here](https://youtu.be/cAmkgMnKx34)
+* [Click here](https://youtu.be/cAmkgMnKx34){:target="_blank"}
 * Click on the image below
 
-[![How NumPy Arrays are faster than Python List?](http://img.youtube.com/vi/cAmkgMnKx34/0.jpg)](http://www.youtube.com/watch?v=cAmkgMnKx34)
+[![How NumPy Arrays are faster than Python List?](http://img.youtube.com/vi/cAmkgMnKx34/0.jpg)](http://www.youtube.com/watch?v=cAmkgMnKx34){:target="_blank"}

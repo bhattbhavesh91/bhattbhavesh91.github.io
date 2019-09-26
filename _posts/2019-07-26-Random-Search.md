@@ -13,7 +13,7 @@ Instead of searching over the entire grid, random search only evaluates a random
 In this video, I'll show you how random search performs about as well as grid search with less number of iterations.
 
 ## To view the video
-* [Click here](https://youtu.be/wseNcn-Op48)
+* [Click here](https://youtu.be/wseNcn-Op48){:target="_blank"}
 * Click on the image below
 
-[![Random Search for Hyper-parameter Optimization](http://img.youtube.com/vi/wseNcn-Op48/0.jpg)](http://www.youtube.com/watch?v=wseNcn-Op48)
+[![Random Search for Hyper-parameter Optimization](http://img.youtube.com/vi/wseNcn-Op48/0.jpg)](http://www.youtube.com/watch?v=wseNcn-Op48){:target="_blank"}

@@ -10,7 +10,7 @@ Grubbs' test (Grubbs 1969 and Stefansky 1972) is used to detect a single outlier
 
 
 ## To view the video
-* [Click here](https://youtu.be/Hn_lMUaMcak)
+* [Click here](https://youtu.be/Hn_lMUaMcak){:target="_blank"}
 * Click on the image below
 
-[![Grubbs Test for Outlier Detection using Python](http://img.youtube.com/vi/Hn_lMUaMcak/0.jpg)](http://www.youtube.com/watch?v=Hn_lMUaMcak)
+[![Grubbs Test for Outlier Detection using Python](http://img.youtube.com/vi/Hn_lMUaMcak/0.jpg)](http://www.youtube.com/watch?v=Hn_lMUaMcak){:target="_blank"}

@@ -16,10 +16,7 @@ This video will answer these questions -
 3. How to detect multicollinearity?
 
 ## To view the video
-* [Click here](https://youtu.be/ATH4urDitI8)
+* [Click here](https://youtu.be/ATH4urDitI8){:target="_blank"}
 * Click on the image below
 
-[![Multicollinearity - Why its bad?](http://img.youtube.com/vi/ATH4urDitI8/0.jpg)](http://www.youtube.com/watch?v=ATH4urDitI8)
-
-
-https://youtu.be/ATH4urDitI8
+[![Multicollinearity - Why its bad?](http://img.youtube.com/vi/ATH4urDitI8/0.jpg)](http://www.youtube.com/watch?v=ATH4urDitI8){:target="_blank"}

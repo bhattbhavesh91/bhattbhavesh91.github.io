@@ -13,7 +13,7 @@ On toy datasets, the following conclusions could be reached :
 - When all the variables are relevant, both methods seem to achieve the same performance.
 
 ## To view the video
-* [Click here](https://youtu.be/Q1qpG7gwix4)
+* [Click here](https://youtu.be/Q1qpG7gwix4){:target="_blank"}
 * Click on the image below
 
-[![What is ExtraTrees Classifier?](http://img.youtube.com/vi/Q1qpG7gwix4/0.jpg)](http://www.youtube.com/watch?v=Q1qpG7gwix4)
+[![What is ExtraTrees Classifier?](http://img.youtube.com/vi/Q1qpG7gwix4/0.jpg)](http://www.youtube.com/watch?v=Q1qpG7gwix4){:target="_blank"}

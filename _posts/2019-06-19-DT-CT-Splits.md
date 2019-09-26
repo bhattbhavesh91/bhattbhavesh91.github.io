@@ -12,7 +12,7 @@ In this video, I'll show you how you can split a decision tree when you have con
 
 
 ## To view the video
-* [Click here](https://youtu.be/OD8aO4ovIBo)
+* [Click here](https://youtu.be/OD8aO4ovIBo){:target="_blank"}
 * Click on the image below
 
-[![Decision Tree Splits for Continuous Variables](http://img.youtube.com/vi/OD8aO4ovIBo/0.jpg)](http://www.youtube.com/watch?v=OD8aO4ovIBo)
+[![Decision Tree Splits for Continuous Variables](http://img.youtube.com/vi/OD8aO4ovIBo/0.jpg)](http://www.youtube.com/watch?v=OD8aO4ovIBo){:target="_blank"}

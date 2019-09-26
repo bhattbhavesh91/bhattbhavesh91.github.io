@@ -17,7 +17,7 @@ Random: Also call "noise", "irregular" or "remainder", this is the residuals of 
 In this video, you will discover time series decomposition from scratch.
 
 ## To view the video
-* [Click here](https://youtu.be/6iVJPG9RQXQ)
+* [Click here](https://youtu.be/6iVJPG9RQXQ){:target="_blank"}
 * Click on the image below
 
-[![Decomposition of Time Series into Trend, Seasonality & Residual from Scratch](http://img.youtube.com/vi/6iVJPG9RQXQ/0.jpg)](http://www.youtube.com/watch?v=6iVJPG9RQXQ)
+[![Decomposition of Time Series into Trend, Seasonality & Residual from Scratch](http://img.youtube.com/vi/6iVJPG9RQXQ/0.jpg)](http://www.youtube.com/watch?v=6iVJPG9RQXQ){:target="_blank"}
