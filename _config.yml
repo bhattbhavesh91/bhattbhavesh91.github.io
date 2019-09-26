@@ -109,6 +109,8 @@ author:
   weibo            :
   xing             :
 
+google_analytics: UA—148830073-1
+
 # Reading Files
 include:
   - .htaccess
