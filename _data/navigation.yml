@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Resume"
     url: /resume/
+  - title: "Machine Learning Videos"
+    url: /mlvideos/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
