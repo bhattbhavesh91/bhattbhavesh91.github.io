@@ -16,7 +16,7 @@ In this video we aim to implement the ADF test from scratch.
 
 
 ## To view the video
-* [Click here](https://youtu.be/warCSvy1DMk)
+* [Click here](https://youtu.be/warCSvy1DMk){:target="_blank"}
 * Click on the image below
 
-[![Dickey-Fuller test for Time Series Stationarity using Python](http://img.youtube.com/vi/warCSvy1DMk/0.jpg)](http://www.youtube.com/watch?v=warCSvy1DMk)
+[![Dickey-Fuller test for Time Series Stationarity using Python](http://img.youtube.com/vi/warCSvy1DMk/0.jpg)](http://www.youtube.com/watch?v=warCSvy1DMk){:target="_blank"}
