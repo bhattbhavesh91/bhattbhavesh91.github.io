@@ -10,6 +10,5 @@ Z-score is a numerical measurement used in statistics of a value's relationship 
 
 ## To view the video
 * [Click here](https://youtu.be/bs2q0oFfxX4){:target="_blank"}
-<!-- * Click on the image below
-
-[![Detecting Outliers with Z-scores in Python](http://img.youtube.com/vi/bs2q0oFfxX4/0.jpg)](http://www.youtube.com/watch?v=bs2q0oFfxX4){:target="_blank"} -->
+<!-- * Click on the image below -->
+<!-- [![Detecting Outliers with Z-scores in Python](http://img.youtube.com/vi/bs2q0oFfxX4/0.jpg)](http://www.youtube.com/watch?v=bs2q0oFfxX4){:target="_blank"} -->
