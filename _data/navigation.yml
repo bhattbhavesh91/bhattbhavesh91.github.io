@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Resume"
-    url: /resume/
   - title: "Machine Learning Videos"
     url: /mlvideos/
+  - title: "Resume"
+    url: /resume/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
