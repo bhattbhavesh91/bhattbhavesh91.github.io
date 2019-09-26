@@ -1,5 +1,5 @@
 ---
-title:  "Stacking Classifier "
+title:  "Stacking Classifier"
 date:   2019-05-14 17:00:00
 categories: [stacking-classifier]
 tags: [stacking-classifier]
@@ -14,4 +14,4 @@ Let's understand how a stacking classifier works and create a simple stacking cl
 * [Click here](https://youtu.be/sBrQnqwMpvA){:target="_blank"}
 * Click on the image below
 
-[![Multicollinearity - Why its bad?](http://img.youtube.com/vi/sBrQnqwMpvA/0.jpg)](http://www.youtube.com/watch?v=sBrQnqwMpvA){:target="_blank"}
+[![Stacking Classifier](http://img.youtube.com/vi/sBrQnqwMpvA/0.jpg)](http://www.youtube.com/watch?v=sBrQnqwMpvA){:target="_blank"}
