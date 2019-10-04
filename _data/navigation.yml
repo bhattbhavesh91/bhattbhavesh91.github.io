@@ -6,6 +6,8 @@ main:
     url: /mlvideos/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
