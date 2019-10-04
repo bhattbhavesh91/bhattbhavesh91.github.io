@@ -8,7 +8,7 @@ title: "About Me"
 
 I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 
-I am a Google Developer Expert (GDE) in Machine Learning since October 2019.
+I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019.
 
 I did my postgraduate degree in Embedded Systems at at Birla Institute of Technology and Science, Pilani in 2016.
 
@@ -16,6 +16,6 @@ In August 2018, I was selected to be an instructor at Greyatom & since then I ha
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 100 videos & 7600 subscribers.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 100 videos & **7600 subscribers**.
 
 To view my YouTube channel, [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}
