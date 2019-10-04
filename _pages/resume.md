@@ -1,9 +1,9 @@
 ---
-permalink: /resume/
-title: "Portfolio"
+permalink: /portfolio/
+title: "Bhavesh Bhatt"
 ---
 
-# Bhavesh Bhatt
+<!---# Bhavesh Bhatt-->
 Data Scientist & Google Developer Expert in Machine Learning
 <!---View my pdf resume [here](https://github.com/bhattbhavesh91/resume/raw/master/Resume_Bhavesh_Bhatt.pdf). -->
 
