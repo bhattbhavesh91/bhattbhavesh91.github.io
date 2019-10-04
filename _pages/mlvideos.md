@@ -32,6 +32,24 @@ title: "Machine Learning Videos"
 * Visualizing Eigenvectors & Eigenvalues using Python &#10230; [Click the link to view the video](https://youtu.be/mxkGMbrobY0){:target="_blank"}
 * Visualizing Eigenvectors using Matplotlib &#10230; [Click the link to view the video](https://youtu.be/RhmzJ0hfJjM){:target="_blank"}
 
+### Web Scraping using Python
+* Web Scraping Dynamic Graphs to CSV Files using Python &#10230; [Click the link to view the video](https://youtu.be/NYK_1bVoBfU){:target="_blank"}
+
+### Outlier Detection
+* Outlier Detection using Quantiles &#10230; [Click the link to view the video](https://youtu.be/2Qrost474lQ){:target="_blank"}
+* Grubbs Test for Outlier Detection using Python &#10230; [Click the link to view the video](https://youtu.be/Hn_lMUaMcak){:target="_blank"}
+* Generalized ESD Test for Outlier Detection using Python &#10230; [Click the link to view the video](https://youtu.be/KGWbbAUcC0I){:target="_blank"}
+* Detecting Outliers with Z-scores in Python &#10230; [Click the link to view the video](https://youtu.be/bs2q0oFfxX4){:target="_blank"}
+
+### TensorFlow Tutorials
+* Tensorflow Basics in 5 Minutes &#10230; [Click the link to view the video](https://youtu.be/ICl3EbL85IQ){:target="_blank"}
+* TensorFlow 2.0 - Introductory Tutorial &#10230; [Click the link to view the video](https://youtu.be/wN4j0CpLp58){:target="_blank"}
+* Build a Simple Neural Network with TensorFlow 2.0 in Google Colab &#10230; [Click the link to view the video](https://youtu.be/Yn27il27g5s){:target="_blank"}
+
+### Gradient Descent Variants
+* Stochastic vs Batch vs Mini-Batch Gradient Descent &#10230; [Click the link to view the video](https://youtu.be/Ne3hjpP7KSI){:target="_blank"}
+* Visualizing Stochastic & Batch Gradient Descent in Matplotlib &#10230; [Click the link to view the video](https://youtu.be/6a5Nn49MsYY){:target="_blank"}
+
 ### Natural Language Processing (NLP)
 * Count Vectorizer Vs TF-IDF for Text Processing &#10230; [Click the link to view the video](https://youtu.be/FrmrHyOSyhE){:target="_blank"}
 * Latent Dirichlet Allocation (LDA) for Topic Modeling &#10230; [Click the link to view the video](https://youtu.be/Cpt97BpI-t4){:target="_blank"}
@@ -39,3 +57,7 @@ title: "Machine Learning Videos"
 ### Voting Classifier
 * What is a Voting Classifier? &#10230; [Click the link to view the video](https://youtu.be/BlrcCpypfhU){:target="_blank"}
 * Implementing a Voting Classifier in scikit-learn &#10230; [Click the link to view the video](https://youtu.be/28xRv-vC9Ys){:target="_blank"}
+
+### Boosting in Machine Learning
+* What is Boosting? &#10230; [Click the link to view the video](https://youtu.be/sfVms30Ulxw){:target="_blank"}
+* AdaBoost, Simplest Example &#10230; [Click the link to view the video](https://youtu.be/9CPsYsB4OLI){:target="_blank"}
