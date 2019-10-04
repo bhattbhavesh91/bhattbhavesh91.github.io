@@ -3,16 +3,7 @@ permalink: /portfolio/
 title: "Bhavesh Bhatt"
 ---
 
-<!---# Bhavesh Bhatt-->
 Data Scientist & Google Developer Expert in Machine Learning
-<!---View my pdf resume [here](https://github.com/bhattbhavesh91/resume/raw/master/Resume_Bhavesh_Bhatt.pdf). -->
-
-<!---
-### Contact Info
-* Email: bhattbhavesh91@gmail.com
-* Phone: (+91) 9987383204
-* Linkedin: https://www.linkedin.com/in/bhattbhavesh91/
--->
 
 ### Summary
 Experienced data scientist with 3.5+ years of industry experience along with masters from BITS Pilani.

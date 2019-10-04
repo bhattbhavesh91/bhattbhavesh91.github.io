@@ -13,6 +13,5 @@ The important hyper-parameters of a decision tree are max_depth, min_samples_spl
 
 ## To view the video
 * [Click here](https://youtu.be/XABw4Y3GBR4){:target="_blank"}
-<!-- * Click on the image below -->
-<!-- 
-[![Decision Tree Hyperparameters  : max_depth, min_samples_split, min_samples_leaf, max_features](http://img.youtube.com/vi/XABw4Y3GBR4/0.jpg)](http://www.youtube.com/watch?v=XABw4Y3GBR4){:target="_blank"} -->
+* Click on the image below -->
+[![Decision Tree Hyperparameters  : max_depth, min_samples_split, min_samples_leaf, max_features](http://img.youtube.com/vi/XABw4Y3GBR4/0.jpg)](http://www.youtube.com/watch?v=XABw4Y3GBR4){:target="_blank"}
