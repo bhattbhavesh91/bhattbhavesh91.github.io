@@ -16,7 +16,7 @@ description              : "My Personal Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # andhint/andhint.github.io"
-teaser                   : "/images/USA_Bhavesh.jpg"
+teaser                   : #"/images/USA_Bhavesh.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
