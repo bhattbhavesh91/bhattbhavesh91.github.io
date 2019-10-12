@@ -61,3 +61,9 @@ title: "Machine Learning Videos"
 ### Boosting in Machine Learning
 * What is Boosting? &#10230; [Click the link to view the video](https://youtu.be/sfVms30Ulxw){:target="_blank"}
 * AdaBoost, Simplest Example &#10230; [Click the link to view the video](https://youtu.be/9CPsYsB4OLI){:target="_blank"}
+
+## Follow Me
+<a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
+<a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30"></a>
+<a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
+<a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>
