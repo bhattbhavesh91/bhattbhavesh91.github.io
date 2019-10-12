@@ -19,13 +19,13 @@ Bachelor of Engineering, Electronics - Percentage: 74.82
 Additionally, I have been a consistent topper of my batch during my undergraduate studies for which I was awarded The Ratan Tata Merit Scholarship twice.
 
 ### Skills
-* Programming Languages & Tools -  Python, MATLAB, Git, GitHub, MySQL, MS Excel  
-* Python - NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow  
-* Big Data & Cloud Computing Platforms - Operating knowledge of Scala, Spark, AWS(EMR, S3)  
-* Concepts - Linear Regression, Decision Tree, Random Forest, PCA  
+* **Programming Languages & Tools** -  Python, MATLAB, Git, GitHub, MySQL, MS Excel  
+* **Python** - NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow  
+* **Big Data & Cloud Computing Platforms** - Operating knowledge of Scala, Spark, AWS(EMR, S3)  
+* **Concepts** - Linear Regression, Decision Tree, Random Forest, PCA  
 
 ### Work Experience
-* **Data Scientist** at **Cuddle.ai - Fractal Analytics**, Mumbai (Oct 2018 - Present)  
+* **Data Scientist** at **Cuddle.ai - Fractal Analytics**, Mumbai (Oct 2018 - Oct 2019)  
 Designed & deployed various time series based anomaly detection algorithms in Python & PySpark.
 * **Data Scientist** at **FlexiLoans**, Mumbai (Nov 2017 - Oct 2018)  
 Designed and deployed multiple models on deep learning, text matching, natural language processing. Formulated queries & extracted data from the database and performed visualizations.  

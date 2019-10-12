@@ -24,6 +24,5 @@ Do check it out by opening Google Assistant & saying "Ask Decision Tree Trivia" 
 
 This was just an experiment with 15 questions that I created. Based on your feedback, I would love to create more such trivia's.
 
-Feel free to drop in your feedback & share it with your network.
-
+Feel free to drop in your feedback & share it with your network.  
 <a href="https://assistant.google.com/services/a/uid/000000ffc6b3bce6?hl=en&source=web&source=web">Link to the Google Assistant Action</a>

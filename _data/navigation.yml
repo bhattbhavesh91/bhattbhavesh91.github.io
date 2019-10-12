@@ -8,6 +8,8 @@ main:
     url: /portfolio/
   - title: "Talks"
     url: /talks/
+  - title: "Google Assistant Actions"
+    url: /assistantactions/
   - title: "Contact"
     url: /contact/
   # - title: "Sample Posts"

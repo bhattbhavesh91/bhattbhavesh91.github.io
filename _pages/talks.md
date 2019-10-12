@@ -4,8 +4,16 @@ title: "Talks"
 ---
 
 ### Document Classification using Deep Learning
-[![Document Classification using Deep Learning](http://img.youtube.com/vi/OmdtaLYDPpM/0.jpg)](http://www.youtube.com/watch?v=OmdtaLYDPpM){:target="_blank"}
+<p> <a href="https://www.youtube.com/watch?v=OmdtaLYDPpM">Click here to view the video</a>.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/IEBsrUQ4eMc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
 
 ### Image Processing Application in FinTech by Bhavesh Bhatt
-[![Image Processing Application in FinTech by Bhavesh Bhatt](http://img.youtube.com/vi/B1wANIJjneM/0.jpg)](http://www.youtube.com/watch?v=B1wANIJjneM){:target="_blank"}
+<p> <a href="https://www.youtube.com/watch?v=B1wANIJjneM">Click here to view the video</a>.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/IEBsrUQ4eMc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
