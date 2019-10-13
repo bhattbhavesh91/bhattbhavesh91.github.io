@@ -16,7 +16,7 @@ In August 2018, I was selected to be an instructor at Greyatom & since then I ha
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 100 videos & **8000 subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 100 videos & **8100 subscribers**.
 
 To view my YouTube channel, [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}  
 
