@@ -7,8 +7,8 @@ description: Wrote a small blog on how I became a Google Developer Expert in mac
 ---
 
 I am extremely stoked to share that as of today, I have been recognized by Google as a Google Developer Expert in Machine Learning.
-![Google Developer Experts](/assets/images/gde.png)  
-**Image Credits: Courtesy Google Developer Experts**     
+![Google Developer Experts](/assets/images/gde_bhavesh.png)  
+<!--**Image Credits: Courtesy Google Developer Experts**-->
 I thought of writing a blog post to answer some of the questions you might have about the GDE program.  
 
 # Who is a Google Developers Expert?
