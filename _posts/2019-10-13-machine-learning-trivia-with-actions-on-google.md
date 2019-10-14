@@ -1,6 +1,6 @@
 ---
 title:  "Machine Learning Trivia With Actions On Google"
-date:   2019-10-19 17:00:00
+date:   2019-10-13 17:00:00
 categories: [machine-learning, actions-on-google, google-assistant]
 tags: [machine-learning, actions-on-google, google-assistant]
 description: I created a simple decision tree trivia or quiz using Actions on Google. Using access it by saying - OK Google, Ask Decision Tree Trivia.
