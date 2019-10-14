@@ -6,8 +6,8 @@ tags: [machine-learning]
 description: Wrote a small blog on how I became a Google Developer Expert in machine learning.
 ---
 
-I am extremely stoked to share that as of today, I have been recognized by Google as a Google Developer Expert in Machine Learning.
-<br> </br>  
+I am extremely stoked to share that as of today, I have been recognized by Google as a Google Developer Expert in Machine Learning.  
+&nbsp;  
 ![Google Developer Experts](/assets/images/gde_bhavesh.png)  
 <!--**Image Credits: Courtesy Google Developer Experts**-->
 &nbsp;  
