@@ -51,7 +51,6 @@ title: "Machine Learning Videos"
 * Visualizing Stochastic & Batch Gradient Descent in Matplotlib &#10230; [Click the link to view the video](https://youtu.be/6a5Nn49MsYY){:target="_blank"}
 
 ### Natural Language Processing (NLP)
-* Count Vectorizer Vs TF-IDF for Text Processing &#10230; [Click the link to view the video](https://youtu.be/FrmrHyOSyhE){:target="_blank"}
 * Latent Dirichlet Allocation (LDA) for Topic Modeling &#10230; [Click the link to view the video](https://youtu.be/Cpt97BpI-t4){:target="_blank"}
 
 ### Voting Classifier
