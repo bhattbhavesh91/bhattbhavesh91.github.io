@@ -25,7 +25,7 @@ Additionally, I have been a consistent topper of my batch during my undergraduat
 * **Concepts** - Linear Regression, Decision Tree, Random Forest, PCA  
 
 ### Work Experience
-* **Data Scientist** at **Cuddle.ai - Fractal Analytics**, Mumbai (Oct 2018 - Oct 2019)  
+* **Data Scientist** at **Fractal Analytics**, Mumbai (Oct 2018 - Oct 2019)  
 Designed & deployed various time series based anomaly detection algorithms in Python & PySpark.
 * **Data Scientist** at **FlexiLoans**, Mumbai (Nov 2017 - Oct 2018)  
 Designed and deployed multiple models on deep learning, text matching, natural language processing. Formulated queries & extracted data from the database and performed visualizations.  

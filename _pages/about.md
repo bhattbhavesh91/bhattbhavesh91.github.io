@@ -6,7 +6,10 @@ title: "About Me"
 <!---Hi I’m Bhavesh, I studied electronics engineering but I’ve been interested in machine learning. I made this website to post some of the videos that I’ve created and to serve as a portfolio of sorts. Besides that I enjoy photography, cricket.
 -->
 
-I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
+<!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
+-->
+
+I am a Data Scientist based out of Mumbai, India. Currently working at Fractal Analytics where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 
 I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019.
 
