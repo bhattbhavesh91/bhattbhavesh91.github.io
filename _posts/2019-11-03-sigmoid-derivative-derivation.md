@@ -12,10 +12,10 @@ In this video, I’ll walk through each step of the derivation and discuss why p
 
 ## To view the video
 
-<p> <a href="https://www.youtube.com/watch?v=yQ5ISYA95X0">Click here to view the video</a>.</p>
+<p> <a href="https://www.youtube.com/watch?v=G6djH3I0rG0">Click here to view the video</a>.</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/yQ5ISYA95X0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube.com/embed/G6djH3I0rG0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 ### Want to know more about me?
