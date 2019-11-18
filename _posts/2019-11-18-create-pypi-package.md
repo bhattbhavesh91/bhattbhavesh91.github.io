@@ -44,8 +44,8 @@ $ python setup.py sdist bdist_wheel
 ```sh
 $ twine check dist/*
 ```
-&nbsp;  
 * The final step is here :-
+&nbsp;  
 ```sh
 $ twine upload dist/*
 ```
