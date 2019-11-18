@@ -22,13 +22,15 @@ description: Small Blog to prepare your Python package for publication & learn h
 #### Publishing to PyPI
 - Your package is finally ready to meet the world outside your computer! In this section, you’ll see how to actually upload your package to PyPI.
 - To upload your package to PyPI, you’ll use a tool called Twine. You can install Twine using Pip as usual:  
+&nbsp;  
 ```sh
 $ pip install twine
 ```
 #### Building Your Package
 - Packages on PyPI are not distributed as plain source code. Instead, they are wrapped into distribution packages. The most common formats for distribution packages are source archives and Python wheels.
 - A source archive consists of your source code and any supporting files wrapped into one tar file. Similarly, a wheel is essentially a zip archive containing your code. In contrast to the source archive, the wheel includes any extensions ready to use.
-- To create a source archive and a wheel for your package, you can run the following command:
+- To create a source archive and a wheel for your package, you can run the following command:  
+&nbsp;  
 ```sh
 $ python setup.py sdist bdist_wheel
 ```
@@ -37,10 +39,12 @@ $ python setup.py sdist bdist_wheel
   * chrome_delete-0.0.8.tar.gz
 
 #### Upload your package to PyPi
-* Twine also checks that your package description will render properly on PyPI. You can run twine check on the files created in dist using the command:
+* Twine also checks that your package description will render properly on PyPI. You can run twine check on the files created in dist using the command:  
+&nbsp;  
 ```sh
 $ twine check dist/*
 ```
+&nbsp;  
 * The final step is here :-
 ```sh
 $ twine upload dist/*
