@@ -8,16 +8,16 @@ description: Small Blog to prepare your Python package for publication & learn h
 
 
 #### Make your code publish-ready
-- Refer to the following [blog](https://realpython.com/python-application-layouts/) for understanding how you need to structure your python projects.
+- Refer to the following [blog](https://realpython.com/python-application-layouts/){:target="_blank"} for understanding how you need to structure your python projects.
 
 #### Create a python package
-- In order to get started, I created a small Python package which helps you delete specific websites from Google Chrome history. [link](https://github.com/bhattbhavesh91/delete-chrome-history)
+- In order to get started, I created a small Python package which helps you delete specific websites from Google Chrome history. [link](https://github.com/bhattbhavesh91/delete-chrome-history){:target="_blank"}
 
 #### Configuring Your Package
-- In order for your package to be uploaded to PyPI, you need to provide some basic information about it. This information is typically provided in the form of a setup.py file. This is a good [link](https://github.com/navdeep-G/setup.py) to understand the various components of the setup file.
+- In order for your package to be uploaded to PyPI, you need to provide some basic information about it. This information is typically provided in the form of a setup.py file. This is a good [link](https://github.com/navdeep-G/setup.py){:target="_blank"} to understand the various components of the setup file.
 
 #### Create a PyPi account
-- In order for your package to be uploaded to PyPI, you need to have an PyPi account. Register on the following [link](https://pypi.org/)
+- In order for your package to be uploaded to PyPI, you need to have an PyPi account. Register on the following [link](https://pypi.org/){:target="_blank"}
 
 #### Publishing to PyPI
 - Your package is finally ready to meet the world outside your computer! In this section, you’ll see how to actually upload your package to PyPI.
