@@ -6,7 +6,11 @@ tags: [linear-regression]
 description: Regression analysis generates an equation to describe the statistical relationship between one or more predictor variables and the response variable. In this video, I’ll show you how to interpret the p-values and coefficients that appear in the output for linear regression analysis.
 ---
 
-In this video, we will go over the regression result displayed by the statsmodels API, OLS function. We will go over R squared, Adjusted R-squared, F-statistic & T-test of the feature values.
+Linear Regression is much more than just using scikit-learn's fit & predict function.
+
+If you use Statsmodels API for Linear Regression, you will get a comprehensive report of the various tests accompanying Linear Regression.
+
+I decided to create a video which will help you interpret the summary table from the OLS Statsmodels API for Linear Regression. In this video, we will go over the regression result displayed by the statsmodels API, OLS function. We will go over R squared, Adjusted R-squared, F-statistic & T-test of the feature values.
 
 ## To view the video
 

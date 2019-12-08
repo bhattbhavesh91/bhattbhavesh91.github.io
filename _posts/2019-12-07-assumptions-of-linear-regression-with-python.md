@@ -6,7 +6,16 @@ tags: [linear-regression]
 description: A video tutorial showing how you can investigate the multicollinearity, normality, constant variance (homoscedasticity), and auto-correlation assumptions of the simple linear regression using Python.
 ---
 
-A video tutorial showing how you can investigate the multicollinearity, normality, constant variance (homoscedasticity), and auto-correlation assumptions of the simple linear regression using Python.
+A lot of us stop once we have created a Linear Regression model with high R-squared or a low RMSE value.
+
+Linear Regression works on some key assumptions:
+- Linear relationship
+- No or little multicollinearity.
+- Normality of Residuals.
+- Homoscedasticity (Constant Variance of residuals)
+- No autocorrelation of residuals.
+
+So, I decided to create a video which will help you validate the assumptions of linear regression after you have created the model.This video will show you how you can investigate the multicollinearity, normality, constant variance (homoscedasticity), and auto-correlation assumptions of the simple linear regression using Python.
 
 ## To view the video
 
