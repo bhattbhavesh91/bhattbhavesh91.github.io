@@ -1,8 +1,8 @@
 ---
 title:  "PySpark in Google Colab"
 date:   2019-04-01 17:00:00
-categories: [pyspark, google-colab]
-tags: [pyspark, google-colab]
+categories: [big-data]
+tags: [big-data]
 
 ---
 

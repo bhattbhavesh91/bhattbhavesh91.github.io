@@ -1,8 +1,8 @@
 ---
 title:  "Grubbs Test for Outlier Detection using Python"
 date:   2019-08-17 17:00:00
-categories: [outlier-detection, grubbs-test]
-tags: [outlier-detection, grubbs-test]
+categories: [outlier-detection]
+tags: [outlier-detection]
 
 ---
 
