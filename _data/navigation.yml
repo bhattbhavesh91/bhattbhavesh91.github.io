@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Machine Learning Videos"
     url: /mlvideos/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Talks"
     url: /talks/
   - title: "Google Actions"
@@ -18,3 +16,5 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Portfolio"
+  #  url: /portfolio/
