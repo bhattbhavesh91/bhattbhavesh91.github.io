@@ -13,13 +13,15 @@ I am a Data Scientist based out of Mumbai, India. Currently working at Fractal A
 
 I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019.
 
+I have also been awarded the prestigious **40 Under 40 Data Scientist award** in 2020.
+
 I did my postgraduate degree in Embedded Systems at at Birla Institute of Technology and Science, Pilani in 2016.
 
 In August 2018, I was selected to be an instructor at Greyatom & since then I have been working with Data Science aspirants to help them transition into a Data Science Career. 
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 100 videos & **8100 subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 110 videos & **10200 subscribers**.
 
 To view my YouTube channel, [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}  
 
