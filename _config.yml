@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Bhavesh Bhatt"
   avatar           : "/assets/images/bhavesh.jpeg"
-  #bio              : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
-  bio              : "Data Scientist, Google Develeoper Expert in ML, YouTube Creator"
-  #bio              : "Data Scientist, Educator, Trainer, YouTube Creator"
+  bio              : "40 under 40 Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
+  #bio             : "Data Scientist, Google Develeoper Expert in ML, Data Scientist, Educator, Trainer, YouTube Creator"
+  #bio             : "Data Scientist, Google Develeoper Expert in ML, YouTube Creator"
+  #bio             : "Data Scientist, Educator, Trainer, YouTube Creator"
   location         : "Mumbai, India"
   target-blank     : "ext-link"
   email            : "emailbhaveshbhatt@gmail.com"
