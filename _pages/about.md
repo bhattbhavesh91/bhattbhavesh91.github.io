@@ -9,7 +9,8 @@ title: "About Me"
 <!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 -->
 
-I am a Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning.
+I am a Data Scientist based out of Mumbai, India. 
+My primary interests include Computer Vision, Machine Learning, Deep Learning.
 
 I have designed & deployed multiple machine learning & deep learning projects that have had a significant business impact.
 
@@ -17,7 +18,7 @@ I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019.
 
 I have also been awarded the prestigious **40 Under 40 Data Scientist award** by Analytics India Magazine in January 2020.
 
-I did my postgraduate degree in Embedded Systems at at Birla Institute of Technology and Science, Pilani in 2016.
+I did my postgraduate degree in Embedded Systems at at **Birla Institute of Technology and Science, Pilani** in 2016.
 
 I have worked with multiple EdTech startups in delivering sessions & developing their machine learning course curriculum. I have also closely worked with Data Science aspirants to help them transition into a Data Science Career. 
 
