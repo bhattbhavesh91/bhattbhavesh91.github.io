@@ -25,9 +25,9 @@ I have also reviewed multiple machine learning books by giving continuous feedba
 
 In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to 110 videos & **10k+ subscribers**.
 
-To view my Machine Learning based YouTube channel, [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}   
+To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}   
 
-To view my Python based YouTube channel, [Click here](https://www.youtube.com/channel/UCo_uTt4go2qs8xOJaUgsiiw){:target="_blank"}   
+To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/channel/UCo_uTt4go2qs8xOJaUgsiiw){:target="_blank"}   
 
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
