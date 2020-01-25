@@ -11,7 +11,6 @@ It was an enriching experience mentoring some interesting projects as part of
 I was responsible for the following during this mentorship:
 - Provide the teams with constructive feedback to improve their pitch.
 - Discuss technical challenges and provide solution approaches.
-
 &nbsp;  
 ![Google Developer Experts](/assets/images/24th_Jan_Build_for_Digital_India.jpg)  
 &nbsp;  
