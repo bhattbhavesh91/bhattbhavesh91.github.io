@@ -9,7 +9,7 @@ title: "About Me"
 <!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 -->
 
-I am a Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning.
+I am a Senior Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 
 I have designed & deployed multiple machine learning & deep learning models that have had a significant business impact.
 
