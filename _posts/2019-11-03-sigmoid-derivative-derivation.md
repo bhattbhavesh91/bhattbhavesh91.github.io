@@ -22,5 +22,6 @@ In this video, I’ll walk through each step of the derivation and discuss why p
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
 <a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30"></a>
+<a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30"></a>
 <a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
 <a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>

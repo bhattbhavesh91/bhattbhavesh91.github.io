@@ -26,3 +26,11 @@ This was just an experiment with 15 questions that I created. Based on your feed
 
 Feel free to drop in your feedback & share it with your network.  
 <a href="https://assistant.google.com/services/a/uid/000000ffc6b3bce6?hl=en&source=web&source=web">Link to the Google Assistant Action</a>
+
+### Want to know more about me?
+## Follow Me
+<a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
+<a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30"></a>
+<a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30"></a>
+<a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
+<a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>

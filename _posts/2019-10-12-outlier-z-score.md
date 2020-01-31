@@ -12,3 +12,11 @@ Z-score is a numerical measurement used in statistics of a value's relationship 
 * [Click here](https://youtu.be/bs2q0oFfxX4){:target="_blank"}
 * Click on the image below
 [![Detecting Outliers with Z-scores in Python](http://img.youtube.com/vi/bs2q0oFfxX4/0.jpg)](http://www.youtube.com/watch?v=bs2q0oFfxX4){:target="_blank"}
+
+### Want to know more about me?
+## Follow Me
+<a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
+<a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30"></a>
+<a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30"></a>
+<a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
+<a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>

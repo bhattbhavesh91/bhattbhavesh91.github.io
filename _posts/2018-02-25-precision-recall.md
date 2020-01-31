@@ -17,3 +17,11 @@ In this video, we aim to uncover the use of Precision & Recall to evaluate machi
 * Click on the image below
 
 [![Precision & Recall for a Machine Learning Model](http://img.youtube.com/vi/dbrRsqlof4w/0.jpg)](http://www.youtube.com/watch?v=dbrRsqlof4w){:target="_blank"}
+
+### Want to know more about me?
+## Follow Me
+<a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
+<a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30"></a>
+<a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30"></a>
+<a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30"></a>
+<a href="https://www.linkedin.com/in/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/lnkdn.png" width="30"></a>
