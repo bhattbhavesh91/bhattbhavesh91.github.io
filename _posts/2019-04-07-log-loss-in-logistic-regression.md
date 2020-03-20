@@ -1,21 +1,19 @@
 ---
-title:  "Why Linear Regression is not suitable for Classification?"
-date:   2019-04-03 17:00:00
-categories: [linear-regression]
-tags: [linear-regression]
+title:  "Log Loss or Cross-Entropy Cost Function in Logistic Regression"
+date:   2019-04-07 17:00:00
+categories: []
+tags: []
+description: In this tutorial, I will show why MSE in not the best cost function for Logistic Regression and why do we use Log Loss or Cross Entropy Loss.
 
 ---
 
-Linear Regression uses the historical relationship between an independent and a dependent variable to predict the future values of the dependent variable. Can we use Linear Regression for a classification task?
-
-In this video, I'll show you why Linear Regression isn't the best choice for a classification task.
-
+In this tutorial, I will show why MSE in not the best cost function for Logistic Regression and why do we use Log Loss or Cross Entropy Loss.
 
 ## To view the video
-* [Click here](https://youtu.be/2TvKZnTHC4M){:target="_blank"}
+* [Click here](https://youtu.be/MztgenIfGgM){:target="_blank"}
 * Click on the image below
 
-[![Why Linear Regression is not suitable for Classification?](http://img.youtube.com/vi/2TvKZnTHC4M/0.jpg)](http://www.youtube.com/watch?v=2TvKZnTHC4M){:target="_blank"}
+[![Log Loss or Cross-Entropy Cost Function in Logistic Regression](http://img.youtube.com/vi/MztgenIfGgM/0.jpg)](http://www.youtube.com/watch?v=MztgenIfGgM){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

@@ -1,9 +1,9 @@
 ---
 title:  "TensorFlow 2.0 - Introductory Tutorial"
 date:   2019-04-17 17:00:00
-categories: [tensorflow, neural-network]
-tags: [tensorflow, neural-network]
-
+categories: []
+tags: []
+description : This is a simple introductory tutorial on Tensorflow 2.0
 ---
 
 TensorFlow 2.0 is here! Let's take a look at a simple tutorial on the basics of TensorFlow.

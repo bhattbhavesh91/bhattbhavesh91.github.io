@@ -1,8 +1,9 @@
 ---
 title:  "How to avoid Multicollinearity in Categorical Data?"
 date:   2019-03-20 17:00:00
-categories: [multicollinearity, categorical-data]
-tags: [multicollinearity, categorical-data]
+categories: []
+tags: []
+description : pd.get_dummies silently introduces multicollinearity in your data. In this tutorial, we will walk through a simple example on how you can deal with the multicollinearity by using pd.get_dummies(drop_first=True) and also by using Lasso regression.
 
 ---
 
