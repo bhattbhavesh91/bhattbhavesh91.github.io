@@ -1,8 +1,8 @@
 ---
 title:  "Simplest Interpretation on Violin Plots"
 date:   2018-12-29 17:00:00
-categories: [Violin-Plot]
-tags: [Violin-Plot]
+categories: []
+tags: []
 
 ---
 

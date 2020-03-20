@@ -1,8 +1,8 @@
 ---
 title:  "Generalized ESD Test for Outlier Detection using Python"
 date:   2019-08-30 17:00:00
-categories: [outlier-detection]
-tags: [outlier-detection]
+categories: []
+tags: []
 
 ---
 
