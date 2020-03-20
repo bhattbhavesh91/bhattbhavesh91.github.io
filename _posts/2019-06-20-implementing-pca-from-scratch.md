@@ -1,8 +1,9 @@
 ---
 title:  "Principal Component Analysis (PCA) from Scratch in Python"
 date:   2019-06-20 17:00:00
-categories: [unsupervised-learning, principal-component-analysis]
-tags: [unsupervised-learning, principal-component-analysis]
+categories: []
+tags: []
+description : Implementing PCA from scratch.
 
 ---
 

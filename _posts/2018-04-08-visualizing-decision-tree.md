@@ -1,9 +1,9 @@
 ---
 title:  "Visualizing a Decision Tree using Python"
 date:   2018-04-08 17:00:00
-categories: [decision-tree]
-tags: [decision-tree]
-
+categories: []
+tags: []
+description : In this video, I'll show you how you can visualize a decision tree using python.
 ---
 
 In this video, I'll show you how you can visualize a decision tree using python.
