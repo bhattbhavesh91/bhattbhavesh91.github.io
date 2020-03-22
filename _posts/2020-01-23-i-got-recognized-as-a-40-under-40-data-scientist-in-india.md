@@ -1,8 +1,8 @@
 ---
 title: "I got recognized as a 40 Under 40 Data Scientist in India!"
 date: 2020-01-23 15:30:00
-categories: [data-science]
-tags: [data-science]
+categories: []
+tags: []
 description: I was recognized by Analytics India Magazine as a 40 under 40 Data Scientists at Machine Learning Developer Summit 2020 (MLDS2020) in India.
 ---
 
