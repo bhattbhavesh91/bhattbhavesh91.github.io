@@ -1,8 +1,8 @@
 ---
 title:  "Principal Component Analysis (PCA) to Address Multicollinearity"
 date:   2019-12-11 17:00:00
-categories: [pca]
-tags: [pca]
+categories: []
+tags: []
 description: A video tutorial showing how you can use Principal Component Analysis (PCA) to remove Multicollinearity from your dataset.
 ---
 

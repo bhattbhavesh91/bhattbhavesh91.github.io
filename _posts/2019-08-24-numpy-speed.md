@@ -1,8 +1,8 @@
 ---
 title:  "How NumPy Arrays are faster than Python List?"
 date:   2019-08-24 17:00:00
-categories: [numpy]
-tags: [numpy]
+categories: []
+tags: []
 
 ---
 

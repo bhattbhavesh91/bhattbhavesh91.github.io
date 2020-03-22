@@ -1,8 +1,8 @@
 ---
 title:  "Git Tutorial for Beginners"
 date:   2019-12-20 17:00:00
-categories: [git]
-tags: [git]
+categories: []
+tags: []
 description: A video tutorial showing what exactly Git is & also walk through its important commands such as add, commit, status, push and more. This tutorial is aimed for beginners.
 ---
 

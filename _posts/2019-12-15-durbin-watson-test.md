@@ -1,8 +1,8 @@
 ---
 title:  "Durbin Watson Test for checking Residual Autocorrelation"
 date:   2019-12-15 17:00:00
-categories: [durbin-watson]
-tags: [durbin-watson]
+categories: []
+tags: []
 description: A video tutorial showing how you can use the Durbin Watson statistic to detect the presence of autocorrelation at lag 1 in the residuals from a regression analysis.
 
 ---

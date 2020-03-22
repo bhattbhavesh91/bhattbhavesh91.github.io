@@ -1,8 +1,8 @@
 ---
 title:  "Pandas GroupBy Simplest Example using Python"
 date:   2019-08-08 17:00:00
-categories: [python, pandas, groupby]
-tags: [python, pandas, groupby]
+categories: [python]
+tags: [python]
 
 ---
 

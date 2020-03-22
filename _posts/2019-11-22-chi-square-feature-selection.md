@@ -1,8 +1,8 @@
 ---
 title:  "Chi-Squared For Feature Selection using SelectKBest"
 date:   2019-11-22 17:00:00
-categories: [feature-selection]
-tags: [feature-selection]
+categories: []
+tags: []
 description: This video shows you how SelectKBest uses Chi-squared test for feature selection for categorical features & target columns. 
 ---
 

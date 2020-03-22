@@ -1,8 +1,8 @@
 ---
 title:  "Understanding the use of any() and all() in NumPy arrays"
 date:   2019-11-30 17:00:00
-categories: [numpy]
-tags: [numpy]
+categories: []
+tags: []
 description: This video shows you how the any and all function work in case of a numpy array or a Pandas Dataframe in Python.
 ---
 

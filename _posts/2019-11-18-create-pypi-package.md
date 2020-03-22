@@ -1,8 +1,8 @@
 ---
 title: "How to upload your python package to PyPi using Twine"
 date: 2019-11-18 22:00:00
-categories: [pypi-package]
-tags: [pypi-package]
+categories: [python]
+tags: [python]
 description: Small Blog to prepare your Python package for publication & learn how to upload your package to PyPI using Twine.
 ---
 

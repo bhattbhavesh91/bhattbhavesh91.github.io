@@ -1,8 +1,8 @@
 ---
 title:  "Pythons Datatable package for speeding up Pandas"
 date:   2020-02-15 17:00:00
-categories: [python-pandas]
-tags: [python-pandas]
+categories: [python]
+tags: [python]
 description: Datatable is a Python library for fast multi-threaded data manipulation and munging. In this video, we will explore the functions present in the datatable module and also see how it fares in speed when compared with Pandas.
 ---
 

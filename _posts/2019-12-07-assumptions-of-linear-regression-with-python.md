@@ -1,8 +1,8 @@
 ---
 title:  "Assumptions of Linear Regression with Python"
 date:   2019-12-07 17:00:00
-categories: [linear-regression]
-tags: [linear-regression]
+categories: []
+tags: []
 description: A video tutorial showing how you can investigate the multicollinearity, normality, constant variance (homoscedasticity), and auto-correlation assumptions of the simple linear regression using Python.
 ---
 

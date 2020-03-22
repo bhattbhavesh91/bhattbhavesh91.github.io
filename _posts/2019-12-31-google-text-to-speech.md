@@ -1,8 +1,8 @@
 ---
 title:  "Convert Text to Speech using Python & gTTS (Google Text-to-Speech)"
 date:   2019-12-31 17:00:00
-categories: [gtts-python]
-tags: [gtts-python]
+categories: [python]
+tags: [python]
 description: gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. This video is a simple demo of gTTS library.
 ---
 

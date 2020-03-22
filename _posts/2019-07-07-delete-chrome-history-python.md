@@ -1,8 +1,8 @@
 ---
 title:  "Delete Specific Websites from Google Chrome History using Python"
 date:   2019-07-07 17:00:00
-categories: [python, delete-chrome-history-python]
-tags: [python, delete-chrome-history-python]
+categories: []
+tags: []
 
 ---
 

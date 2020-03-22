@@ -1,8 +1,8 @@
 ---
 title:  "Regression Trees, Simply Explained"
 date:   2019-06-25 17:00:00
-categories: [regression-trees]
-tags: [regression-trees]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

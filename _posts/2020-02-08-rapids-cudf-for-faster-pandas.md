@@ -1,8 +1,8 @@
 ---
 title:  "Speedup Python Pandas with RAPIDS GPU-Accelerated Dataframe Library called cuDF on Google Colab!"
 date:   2020-02-08 17:00:00
-categories: [cudf]
-tags: [cudf]
+categories: []
+tags: []
 description: In this video, I'll show you how you can speedup Python Pandas with RAPIDS GPU-Accelerated Dataframe Library called cuDF on Google Colab!
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "Decomposition of Time Series into Trend, Seasonality & Residual from Scratch"
 date:   2019-08-01 17:00:00
-categories: [time-series]
-tags: [time-series]
+categories: []
+tags: []
 
 ---
 

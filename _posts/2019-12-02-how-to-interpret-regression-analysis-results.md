@@ -1,8 +1,8 @@
 ---
 title:  "How to Interpret Regression Analysis Results: P-values and Coefficients"
 date:   2019-12-02 17:00:00
-categories: [linear-regression]
-tags: [linear-regression]
+categories: []
+tags: []
 description: Regression analysis generates an equation to describe the statistical relationship between one or more predictor variables and the response variable. In this video, I’ll show you how to interpret the p-values and coefficients that appear in the output for linear regression analysis.
 ---
 

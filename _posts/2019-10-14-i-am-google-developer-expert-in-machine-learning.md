@@ -1,8 +1,8 @@
 ---
 title:  "How I Got Selected as a Google Developer Expert in Machine Learning"
 date:   2019-10-14 17:00:00
-categories: [machine-learning]
-tags: [machine-learning]
+categories: [data-science]
+tags: [data-science]
 description: Wrote a small blog on how I became a Google Developer Expert in machine learning.
 ---
 

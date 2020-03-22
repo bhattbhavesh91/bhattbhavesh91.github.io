@@ -1,8 +1,8 @@
 ---
 title:  "How to Speed up Pandas using Modin"
 date:   2020-01-05 17:00:00
-categories: [modin-library]
-tags: [modin-library]
+categories: [python]
+tags: [python]
 description: A video tutorial showing how you can achieve great speed while using Pandas Dataframe using the Modin Library.
 ---
 
