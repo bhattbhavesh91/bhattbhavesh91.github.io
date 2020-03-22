@@ -1,8 +1,8 @@
 ---
 title:  "Eliminate Multicollinearity using Lasso Regression"
 date:   2020-03-18 17:00:00
-categories: [lasso-regression]
-tags: [lasso-regression]
+categories: []
+tags: []
 description: In this tutorial, I will show you that if you have high multicollinearity in your features, then by applying Lasso Regression you can shrink the coefficients of some of the unwanted features to 0.
 ---
 
