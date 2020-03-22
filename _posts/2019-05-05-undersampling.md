@@ -1,8 +1,8 @@
 ---
 title:  "Undersampling for Handling Imbalanced Datasets"
 date:   2019-05-05 17:00:00
-categories: [class-imbalance, undersampling]
-tags: [class-imbalance, undersampling]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "Simplest example of Decision Tree"
 date:   2018-02-11 17:00:00
-categories: [decision-tree]
-tags: [decision-tree]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

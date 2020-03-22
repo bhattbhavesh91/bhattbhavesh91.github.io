@@ -1,8 +1,8 @@
 ---
 title:  "ML Metrics: Sensitivity vs. Specificity"
 date:   2019-05-03 17:00:00
-categories: [sensitivity, specificity]
-tags: [sensitivity, specificity]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

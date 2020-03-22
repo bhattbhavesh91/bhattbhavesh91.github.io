@@ -1,8 +1,8 @@
 ---
 title:  "Treat Missing Data in Python Pandas using dropna, fillna"
 date:   2019-03-14 17:00:00
-categories: [missing-values, pandas]
-tags: [missing-values, pandas]
+categories: [pandas]
+tags: [pandas]
 
 ---
 

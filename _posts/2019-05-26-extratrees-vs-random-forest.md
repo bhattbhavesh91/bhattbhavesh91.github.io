@@ -1,21 +1,18 @@
 ---
-title:  "Decision Tree Splits for Continuous Variables"
-date:   2019-06-19 17:00:00
-categories: [decision-trees]
-tags: [decision-trees]
+title:  "ExtraTrees Vs Random Forest Classifier in Scikit-Learn"
+date:   2019-05-26 17:00:00
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 
-How does a Decision Tree Split on continuous variables?
-A Decision Tree recursively splits training data into subsets based on the value of a single attribute. Splitting stops when every subset is pure (all elements belong to a single class)
-In this video, I'll show you how you can split a decision tree when you have continous variables.
-
+Extra trees seem much faster (about three times) than the random forest method (at, least, in scikit-learn implementation). This is consistent with the theoretical construction of the two learners. In this video, I'm aim to prove that using scikit-learn.
 
 ## To view the video
-* [Click here](https://youtu.be/OD8aO4ovIBo){:target="_blank"}
+* [Click here](https://youtu.be/3JbtzH_W86U){:target="_blank"}
 * Click on the image below
 
-[![Decision Tree Splits for Continuous Variables](http://img.youtube.com/vi/OD8aO4ovIBo/0.jpg)](http://www.youtube.com/watch?v=OD8aO4ovIBo){:target="_blank"}
+[![ExtraTrees Vs Random Forest Classifier in Scikit-Learn](http://img.youtube.com/vi/3JbtzH_W86U/0.jpg)](http://www.youtube.com/watch?v=3JbtzH_W86U){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

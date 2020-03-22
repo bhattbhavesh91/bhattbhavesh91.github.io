@@ -1,8 +1,8 @@
 ---
 title:  "Gradient Descent Animation of Best Fit Line using Matplotlib"
 date:   2019-02-18 17:00:00
-categories: [gradient-descent]
-tags: [gradient-descent]
+categories: [matplotlib]
+tags: [matplotlib]
 
 ---
 

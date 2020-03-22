@@ -1,8 +1,8 @@
 ---
 title:  "Axis in Numpy Pandas"
 date:   2018-10-02 17:00:00
-categories: [numpy, python]
-tags: [numpy, python]
+categories: [python]
+tags: [python]
 
 ---
 

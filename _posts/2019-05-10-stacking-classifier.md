@@ -1,8 +1,8 @@
 ---
 title:  "Stacking Classifier"
 date:   2019-05-14 17:00:00
-categories: [stacking-classifier]
-tags: [stacking-classifier]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "Gradient Descent with Cost Function Animation"
 date:   2019-02-26 17:00:00
-categories: [gradient-descent]
-tags: [gradient-descent]
+categories: [matplotlib]
+tags: [matplotlib]
 
 ---
 

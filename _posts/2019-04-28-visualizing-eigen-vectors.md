@@ -1,8 +1,8 @@
 ---
 title:  "Visualizing Eigenvectors & Eigenvalues using Python"
 date:   2019-04-28 17:00:00
-categories: [eigen-vectors, visualization]
-tags: [eigen-vectors, visualization]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

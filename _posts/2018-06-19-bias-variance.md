@@ -1,8 +1,8 @@
 ---
 title:  "Bias-Variance Tradeoff"
 date:   2018-06-19 17:00:00
-categories: [bias-variance, python]
-tags: [bias-variance, python]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

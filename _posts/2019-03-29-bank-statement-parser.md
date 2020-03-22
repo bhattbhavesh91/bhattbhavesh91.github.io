@@ -1,8 +1,8 @@
 ---
 title:  "Bank Statement Parser using Python"
 date:   2019-03-29 17:00:00
-categories: [bank-statement, python]
-tags: [bank-statement, python]
+categories: [python]
+tags: [python]
 
 ---
 

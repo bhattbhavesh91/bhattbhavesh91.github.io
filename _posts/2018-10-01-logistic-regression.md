@@ -1,8 +1,8 @@
 ---
 title:  "Basic intuition of Logistic Regression"
 date:   2018-10-01 17:00:00
-categories: [Logistic-Regression]
-tags: [Logistic-Regression]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

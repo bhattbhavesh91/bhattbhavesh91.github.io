@@ -1,8 +1,8 @@
 ---
 title:  "Transforming Categorical to Numerical for Prediction"
 date:   2018-02-17 17:00:00
-categories: [sklearn, transformation]
-tags: [sklearn, transformation]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

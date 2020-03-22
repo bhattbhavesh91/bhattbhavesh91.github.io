@@ -1,8 +1,8 @@
 ---
 title:  "Simplest example of Random Forest"
 date:   2018-02-12 17:00:00
-categories: [random-forest]
-tags: [random-forest]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

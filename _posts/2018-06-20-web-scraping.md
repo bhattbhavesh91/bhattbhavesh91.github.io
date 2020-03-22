@@ -1,8 +1,8 @@
 ---
 title:  "Web Scraping Dynamic Graphs to CSV Files using Python"
 date:   2018-06-20 17:00:00
-categories: [web-scraping]
-tags: [web-scraping]
+categories: [python]
+tags: [python]
 
 ---
 

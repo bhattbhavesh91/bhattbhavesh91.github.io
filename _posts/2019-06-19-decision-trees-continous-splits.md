@@ -1,19 +1,21 @@
 ---
-title:  "Random State in Train Test Split"
-date:   2018-12-25 17:00:00
-categories: [voting-classifier]
-tags: [voting-classifier]
+title:  "Decision Tree Splits for Continuous Variables"
+date:   2019-06-19 17:00:00
+categories: []
+tags: []
 
 ---
 
-This video demonstrates the importance of random state in Train Test Split.
+How does a Decision Tree Split on continuous variables?
+A Decision Tree recursively splits training data into subsets based on the value of a single attribute. Splitting stops when every subset is pure (all elements belong to a single class)
+In this video, I'll show you how you can split a decision tree when you have continous variables.
 
 
 ## To view the video
-* [Click here](https://youtu.be/c249O4giblM){:target="_blank"}
+* [Click here](https://youtu.be/OD8aO4ovIBo){:target="_blank"}
 * Click on the image below
 
-[![Random State in Train Test Split](http://img.youtube.com/vi/c249O4giblM/0.jpg)](http://www.youtube.com/watch?v=c249O4giblM){:target="_blank"}
+[![Decision Tree Splits for Continuous Variables](http://img.youtube.com/vi/OD8aO4ovIBo/0.jpg)](http://www.youtube.com/watch?v=OD8aO4ovIBo){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

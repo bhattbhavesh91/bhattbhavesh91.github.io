@@ -1,8 +1,8 @@
 ---
 title:  "Out-of-bag (OOB) score for Ensemble Classifiers in Sklearn"
 date:   2019-05-01 17:00:00
-categories: [oob-score]
-tags: [oob-score]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

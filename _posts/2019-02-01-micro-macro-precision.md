@@ -1,8 +1,8 @@
 ---
 title:  "Micro & Macro Precision for Imbalanced Multi-class Classification"
 date:   2019-02-01 17:00:00
-categories: []
-tags: []
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

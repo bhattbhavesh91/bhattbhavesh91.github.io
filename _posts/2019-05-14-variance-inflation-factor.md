@@ -1,8 +1,8 @@
 ---
 title:  "Variance Inflation Factor (VIF) for Detecting Multicolinearity in Python"
 date:   2019-05-14 17:00:00
-categories: [multicollinearity, vif, variance-inflation-factor]
-tags: [multicollinearity, vif, variance-inflation-factor]
+categories: [multicollinearity]
+tags: [multicollinearity]
 
 ---
 

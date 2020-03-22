@@ -1,8 +1,8 @@
 ---
 title:  "Multicollinearity - Why its bad?"
 date:   2019-06-12 17:00:00
-categories: [multicollinearity]
-tags: [multicollinearity]
+categories: []
+tags: []
 
 ---
 

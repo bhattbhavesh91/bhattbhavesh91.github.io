@@ -1,8 +1,8 @@
 ---
 title:  "Out-of-bag (OOB) error derivation for Random Forests"
 date:   2019-04-24 17:00:00
-categories: [oob-score]
-tags: [oob-score]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

@@ -1,19 +1,19 @@
 ---
-title:  "Voting Classifier in Python"
-date:   2018-12-27 17:00:00
-categories: [voting-classifier]
-tags: [voting-classifier]
+title:  "Random State in Train Test Split"
+date:   2018-12-25 17:00:00
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 
-This is a small video demonstrating how you can use the voting classifier module in sklearn to create an ensemble of classifiers. We will be creating both hard and soft voting classifiers.
+This video demonstrates the importance of random state in Train Test Split.
 
 
 ## To view the video
-* [Click here](https://youtu.be/28xRv-vC9Ys){:target="_blank"}
+* [Click here](https://youtu.be/c249O4giblM){:target="_blank"}
 * Click on the image below
 
-[![Voting Classifier in Python](http://img.youtube.com/vi/28xRv-vC9Ys/0.jpg)](http://www.youtube.com/watch?v=28xRv-vC9Ys){:target="_blank"}
+[![Random State in Train Test Split](http://img.youtube.com/vi/c249O4giblM/0.jpg)](http://www.youtube.com/watch?v=c249O4giblM){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

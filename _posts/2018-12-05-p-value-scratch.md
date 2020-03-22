@@ -1,8 +1,8 @@
 ---
 title:  "Computing P-Value by Hand"
 date:   2018-12-05 17:00:00
-categories: [p-value]
-tags: [p-value]
+categories: [statistics]
+tags: [statistics]
 
 ---
 

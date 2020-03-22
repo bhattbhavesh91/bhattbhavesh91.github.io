@@ -1,8 +1,8 @@
 ---
 title:  "Precision & Recall for a Machine Learning Model"
 date:   2018-02-25 17:00:00
-categories: [Precision, Recall]
-tags: [Precision, Recall]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

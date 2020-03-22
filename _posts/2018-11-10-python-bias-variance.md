@@ -1,8 +1,8 @@
 ---
 title:  "Python based Bias-Variance Tradeoff example"
 date:   2018-11-10 17:00:00
-categories: [bias-variance, python]
-tags: [bias-variance, python]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

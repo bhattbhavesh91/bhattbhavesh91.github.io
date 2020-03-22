@@ -1,8 +1,8 @@
 ---
 title:  "What Is Machine Learning?"
 date:   2018-02-20 17:00:00
-categories: [machine-learning]
-tags: [machine-learning]
+categories: []
+tags: []
 
 ---
 

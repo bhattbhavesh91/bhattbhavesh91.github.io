@@ -1,8 +1,8 @@
 ---
 title:  "Documenting Python Flask RESTful API with Swagger"
 date:   2019-03-13 17:00:00
-categories: [flask, swagger]
-tags: [flask, swagger]
+categories: [python]
+tags: [python]
 
 ---
 

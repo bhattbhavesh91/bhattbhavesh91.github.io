@@ -1,8 +1,8 @@
 ---
 title:  "Visualizing Eigenvectors using Matplotlib"
 date:   2019-06-12 17:00:00
-categories: [eigenvectors]
-tags: [eigenvectors]
+categories: []
+tags: []
 
 ---
 

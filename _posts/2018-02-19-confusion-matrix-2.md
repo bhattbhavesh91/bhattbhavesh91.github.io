@@ -1,8 +1,8 @@
 ---
 title:  "Confusion in confusion matrix resolved using Pandas Python"
 date:   2018-02-19 17:00:00
-categories: [confusion-matrix]
-tags: [confusion-matrix]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

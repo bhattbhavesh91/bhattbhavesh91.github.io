@@ -1,8 +1,8 @@
 ---
 title:  "P-Value calculation from Z Score"
 date:   2019-02-12 17:00:00
-categories: [p-value, z-score]
-tags: [p-value, z-score]
+categories: [statistics]
+tags: [statistics]
 
 ---
 

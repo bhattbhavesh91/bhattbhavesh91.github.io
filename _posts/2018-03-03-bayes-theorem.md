@@ -1,8 +1,8 @@
 ---
 title:  "Bayes Theorem - The Simplest Example"
 date:   2018-03-03 17:00:00
-categories: [bayes-theorem]
-tags: [bayes-theorem]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

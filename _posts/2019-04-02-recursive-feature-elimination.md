@@ -1,18 +1,21 @@
 ---
-title:  "ExtraTrees Vs Random Forest Classifier in Scikit-Learn"
-date:   2019-05-26 17:00:00
-categories: [random-forest, extratrees-classifier]
-tags: [random-forest, extratrees-classifier]
+title:  "Feature Selection using SelectKBest & Recursive Feature Elimination"
+date:   2019-04-02 17:00:00
+categories: [feature-selection]
+tags: [feature-selection]
 
 ---
 
-Extra trees seem much faster (about three times) than the random forest method (at, least, in scikit-learn implementation). This is consistent with the theoretical construction of the two learners. In this video, I'm aim to prove that using scikit-learn.
+Feature Selection is one of the core concepts in machine learning which hugely impacts the performance of your model. The data features that you use to train your machine learning models have a huge influence on the performance you can achieve.
+
+In this video, I'll show you how you can do feature selection using SelectKBest & Recursive Feature Elimination in Sckit Learn.
+
 
 ## To view the video
-* [Click here](https://youtu.be/3JbtzH_W86U){:target="_blank"}
+* [Click here](https://youtu.be/xlHk4okO8Ls){:target="_blank"}
 * Click on the image below
 
-[![ExtraTrees Vs Random Forest Classifier in Scikit-Learn](http://img.youtube.com/vi/3JbtzH_W86U/0.jpg)](http://www.youtube.com/watch?v=3JbtzH_W86U){:target="_blank"}
+[![Why Linear Regression is not suitable for Classification?](http://img.youtube.com/vi/xlHk4okO8Ls/0.jpg)](http://www.youtube.com/watch?v=xlHk4okO8Ls){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

@@ -1,8 +1,8 @@
 ---
 title:  "Numpy Axis 3-Dimensional Intuition"
 date:   2018-10-07 17:00:00
-categories: [numpy, python]
-tags: [numpy, python]
+categories: [python]
+tags: [python]
 
 ---
 

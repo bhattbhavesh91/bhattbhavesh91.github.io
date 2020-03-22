@@ -1,8 +1,8 @@
 ---
 title:  "Hyperparameter Tuning & Cross Validation using Scikit Learn"
 date:   2019-01-01 17:00:00
-categories: [Hyperparameter-Tuning, Cross-Validation]
-tags: [Hyperparameter-Tuning, Cross-Validation]
+categories: []
+tags: []
 
 ---
 

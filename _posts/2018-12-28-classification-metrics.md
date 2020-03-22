@@ -1,27 +1,19 @@
 ---
-title:  "Deploy Machine Learning Model using Flask"
-date:   2018-02-06 17:00:00
-categories: [flask, model-deployment]
-tags: [flask, model-deployment]
+title:  "Accuracy, Recall, Precision, F1 Score in Python from scratch"
+date:   2018-12-29 17:00:00
+categories: [machine-learning]
+tags: []
 
 ---
 
-Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. Learn how to first train a model using sklearn and deploy it using Python Flask.
+Violin plots are similar to box plots, except that they also show the probability density of the data at different values, usually smoothed by a kernel density estimator. This tutorial will help you interpret a violin plot using the seaborn library.
 
 
-## To view the Part 1
-* [Click here](https://youtu.be/FdlbsXe0p3M){:target="_blank"}
+## To view the video
+* [Click here](https://youtu.be/9PbrWiLC-4k){:target="_blank"}
 * Click on the image below
 
-[![Part 1](http://img.youtube.com/vi/FdlbsXe0p3M/0.jpg)](http://www.youtube.com/watch?v=FdlbsXe0p3M){:target="_blank"} 
-
-
-## To view the Part 2
-* [Click here](https://youtu.be/zRPP1jpJANg){:target="_blank"}
-* Click on the image below
-
-[![Part 2](http://img.youtube.com/vi/zRPP1jpJANg/0.jpg)](http://www.youtube.com/watch?v=zRPP1jpJANg){:target="_blank"}
-
+[![Accuracy, Recall, Precision, F1 Score in Python from scratch](http://img.youtube.com/vi/9PbrWiLC-4k/0.jpg)](http://www.youtube.com/watch?v=9PbrWiLC-4k){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

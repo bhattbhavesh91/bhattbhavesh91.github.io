@@ -1,8 +1,8 @@
 ---
 title:  "Gini index based Decision Tree"
 date:   2018-02-17 16:00:00
-categories: [gini-index, decision-tree]
-tags: [gini-index, decision-tree]
+categories: [decision-tree]
+tags: [decision-tree]
 
 ---
 

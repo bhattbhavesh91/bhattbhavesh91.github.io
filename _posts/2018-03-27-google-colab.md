@@ -1,8 +1,8 @@
 ---
 title:  "Get started with Google Colaboratory (CNN in Tensorflow)"
 date:   2018-03-27 17:00:00
-categories: [google-colab]
-tags: [google-colab]
+categories: [deep-learning]
+tags: [deep-learning]
 
 ---
 

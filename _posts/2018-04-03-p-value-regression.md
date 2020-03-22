@@ -1,8 +1,8 @@
 ---
 title:  "What does P-Value mean in Regression?"
 date:   2018-04-03 17:00:00
-categories: [p-value, regression]
-tags: [p-value, regression]
+categories: [machine-learning] 
+tags: [machine-learning]
 
 ---
 

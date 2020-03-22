@@ -1,8 +1,8 @@
 ---
 title:  "Finding K in K-means Clustering Automatically"
 date:   2019-01-28 17:00:00
-categories: [Clustering]
-tags: [Clustering]
+categories: []
+tags: []
 description: "Lets find optimum K in K-means clustering mathematically."
 ---
 

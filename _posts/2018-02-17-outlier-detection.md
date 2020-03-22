@@ -1,8 +1,8 @@
 ---
 title:  "Outlier Detection and Removal using Pandas Python"
 date:   2018-02-17 12:00:00
-categories: [outlier-detection, pandas]
-tags: [outlier-detection, pandas]
+categories: [pandas]
+tags: [pandas]
 
 ---
 

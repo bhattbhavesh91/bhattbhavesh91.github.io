@@ -1,8 +1,8 @@
 ---
 title:  "Class Weights for Handling Imbalanced Datasets"
 date:   2019-05-07 17:00:00
-categories: [class-imbalance, class-weight]
-tags: [class-imbalance, class-weight]
+categories: [class-weight]
+tags: [class-weight]
 
 ---
 

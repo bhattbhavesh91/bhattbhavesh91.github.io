@@ -1,8 +1,8 @@
 ---
 title:  "Voting Classifier, Simplest Example"
 date:   2018-12-26 17:00:00
-categories: [voting-classifier]
-tags: [voting-classifier]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

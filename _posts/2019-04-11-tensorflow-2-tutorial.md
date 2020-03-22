@@ -1,8 +1,8 @@
 ---
 title:  "TensorFlow 2.0 - Introductory Tutorial"
 date:   2019-04-17 17:00:00
-categories: []
-tags: []
+categories: [deep-learning]
+tags: [deep-learning]
 description : This is a simple introductory tutorial on Tensorflow 2.0
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "Excel Filtering in Pandas Dataframe using QGrid Library"
 date:   2019-03-24 17:00:00
-categories: [qgrid, python]
-tags: [qgrid, python]
+categories: [python]
+tags: [python]
 
 ---
 

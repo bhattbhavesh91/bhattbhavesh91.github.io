@@ -1,8 +1,8 @@
 ---
 title:  "What is Linearity in Linear Regression?"
 date:   2018-12-05 17:00:00
-categories: [linear-regression]
-tags: [linear-regression]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

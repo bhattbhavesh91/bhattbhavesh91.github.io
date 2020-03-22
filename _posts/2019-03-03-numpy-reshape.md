@@ -1,8 +1,8 @@
 ---
 title:  "What exactly is reshape(-1,1) in Numpy & Pandas (Python)?"
 date:   2019-03-03 17:00:00
-categories: [numpy, reshape]
-tags: [numpy, reshape]
+categories: []
+tags: []
 
 ---
 

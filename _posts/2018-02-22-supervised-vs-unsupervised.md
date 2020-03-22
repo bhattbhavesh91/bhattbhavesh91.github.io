@@ -1,8 +1,8 @@
 ---
 title:  "Supervised & Unsupervised learning in layman's terms"
 date:   2018-02-22 17:00:00
-categories: [supervised-learning, unsupervised-learning]
-tags: [supervised-learning, unsupervised-learning]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

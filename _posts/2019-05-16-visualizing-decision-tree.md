@@ -1,8 +1,8 @@
 ---
 title:  "Visualizing Decision Tree Boundary using Matplotlib"
 date:   2019-05-16 17:00:00
-categories: [decision-tree]
-tags: [decision-tree]
+categories: []
+tags: []
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title:  "What is ExtraTrees Classifier?"
 date:   2019-05-25 17:00:00
-categories: [random-forest, extratrees-classifier]
-tags: [random-forest, extratrees-classifier]
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 

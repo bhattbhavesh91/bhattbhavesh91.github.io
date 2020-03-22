@@ -1,21 +1,19 @@
 ---
-title:  "Feature Selection using SelectKBest & Recursive Feature Elimination"
-date:   2019-04-02 17:00:00
-categories: [feature-selection, rfe]
-tags: [feature-selection, rfe]
+title:  "Voting Classifier in Python"
+date:   2018-12-27 17:00:00
+categories: [machine-learning]
+tags: [machine-learning]
 
 ---
 
-Feature Selection is one of the core concepts in machine learning which hugely impacts the performance of your model. The data features that you use to train your machine learning models have a huge influence on the performance you can achieve.
-
-In this video, I'll show you how you can do feature selection using SelectKBest & Recursive Feature Elimination in Sckit Learn.
+This is a small video demonstrating how you can use the voting classifier module in sklearn to create an ensemble of classifiers. We will be creating both hard and soft voting classifiers.
 
 
 ## To view the video
-* [Click here](https://youtu.be/xlHk4okO8Ls){:target="_blank"}
+* [Click here](https://youtu.be/28xRv-vC9Ys){:target="_blank"}
 * Click on the image below
 
-[![Why Linear Regression is not suitable for Classification?](http://img.youtube.com/vi/xlHk4okO8Ls/0.jpg)](http://www.youtube.com/watch?v=xlHk4okO8Ls){:target="_blank"}
+[![Voting Classifier in Python](http://img.youtube.com/vi/28xRv-vC9Ys/0.jpg)](http://www.youtube.com/watch?v=28xRv-vC9Ys){:target="_blank"}
 
 ### Want to know more about me?
 ## Follow Me

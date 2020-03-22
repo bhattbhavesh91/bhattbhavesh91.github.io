@@ -1,8 +1,8 @@
 ---
 title:  "Build a Simple Neural Network with TensorFlow 2.0 in Google Colab"
 date:   2019-04-17 17:00:00
-categories: [tensorflow, neural-network]
-tags: [tensorflow, neural-network]
+categories: [deep-learning]
+tags: [deep-learning]
 
 ---
 
