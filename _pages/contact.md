@@ -9,7 +9,7 @@ In case you plan to collaborate or want help in machine learning projects, feel 
 
 **GitHub** : github.com/bhattbhavesh91
 
-**PS** - I have a full time job which I enjoy along with my YouTube video creation hobby. I get a lot of mails & Linkedin messages! All the messages are read, but hope you understand that not all can get a personal responses.
+**PS** - I have a full time job which I enjoy along with my YouTube video creation hobby. I get a lot of mails & Linkedin messages! I try to read most of the messages, but hope you understand that not all can get a personal response.
 
 
 ## Follow Me
