@@ -26,11 +26,15 @@ I have worked with multiple EdTech startups in delivering sessions & developing 
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **200 videos** & **25k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **200 videos** with **1.2 Million views** & **26k+ subscribers**.
 
 To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}   
 
+To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/PythonTricks/){:target="_blank"}   
+
+<!---
 To view my Python based YouTube channel &#10230; [Click here](https://www.youtube.com/channel/UCo_uTt4go2qs8xOJaUgsiiw){:target="_blank"}   
+-->
 
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
