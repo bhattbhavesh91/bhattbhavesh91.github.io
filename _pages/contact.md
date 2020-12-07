@@ -2,13 +2,12 @@
 permalink: /contact/
 title: "Contact"
 ---
-
-# In case you plan to collaborate or want help in machine learning projects, feel free to write to me or connect with me.
-# If you want to have a chat with me regarding work opportunities, or paid collaboration, shoot an email at 
-
 If you want to have a chat with me regarding work opportunities, paid collaborations, corporate training & product/GPU unboxing, feel free to write to me or connect with me.
-
+<!---
+In case you plan to collaborate or want help in machine learning projects, feel free to write to me or connect with me.
+If you want to have a chat with me regarding work opportunities, or paid collaboration, shoot an email at 
 Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration
+-->
 
 **Email** : emailbhaveshbhatt [at] gmail [dot] com
 
