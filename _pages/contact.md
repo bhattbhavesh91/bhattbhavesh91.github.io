@@ -8,27 +8,29 @@ In case you plan to collaborate or want help in machine learning projects, feel 
 If you want to have a chat with me regarding work opportunities, or paid collaboration, shoot an email at 
 Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration
 -->
-<form
-  action="https://formspree.io/f/mjvppzjq"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="text" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
 
-  <!-- your other form fields go here -->
+<form action="https://formspree.io/f/mjvppzjq" method="POST">
+    <label>
+        Your name:
+        <input type="text" name="_name" required />
+    </label>
 
-  <button type="submit">Send</button>
+    <label>
+        Your email:
+        <input type="text" name="_replyto" required />
+    </label>
+    <label>
+        Your message:
+        <textarea name="message" required></textarea>
+    </label>
+    <button type="submit">Send</button>
 </form>
 
+<!---
 **Email** : emailbhaveshbhatt [at] gmail [dot] com
 
 **GitHub** : github.com/bhattbhavesh91
+-->
 
 **PS** - I have a full time job which I enjoy along with my YouTube video creation hobby. I get a lot of mails & Linkedin messages! I try to read most of the messages, but hope you understand that not all can get a personal response.
 
