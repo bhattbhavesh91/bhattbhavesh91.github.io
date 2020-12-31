@@ -8,6 +8,23 @@ In case you plan to collaborate or want help in machine learning projects, feel 
 If you want to have a chat with me regarding work opportunities, or paid collaboration, shoot an email at 
 Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration
 -->
+<form
+  action="https://formspree.io/f/mjvppzjq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
 **Email** : emailbhaveshbhatt [at] gmail [dot] com
 
