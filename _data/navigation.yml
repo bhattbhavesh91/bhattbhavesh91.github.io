@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Contact"
+    url: /contact/
   - title: "Mentorship"
     url: /mentorship/
   - title: "ML Videos"
@@ -10,8 +12,8 @@ main:
     url: /talks/
   - title: "Google Actions"
     url: /assistantactions/
-  - title: "Contact"
-    url: /contact/
+  #- title: "Contact"
+  #  url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
