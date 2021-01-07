@@ -247,6 +247,7 @@ compress_html:
   ignore:
     envs: development
 
+classes: wide
 
 # Defaults
 defaults:
