@@ -112,7 +112,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  linktree         : "bhattbhavesh91"
+#   linktree         : "bhattbhavesh91"
 
 google_analytics: UA—148830073-1
 
@@ -271,4 +271,5 @@ defaults:
       layout: single
       author_profile: true
 
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
