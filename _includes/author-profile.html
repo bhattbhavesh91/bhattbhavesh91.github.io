@@ -194,7 +194,23 @@
           </li>
         {% endif %}
       {% endif %}
-
+      
+      {% if author.python %}
+        {% if author.python contains "://" %}
+          <li>
+            <a href="{{ author.python }}" itemprop="sameAs" target="_blank">
+              <i class="fa fa-fw fa-python-square" aria-hidden="true"></i> Python Videos
+            </a>
+          </li>
+        {% else author.python %}
+          <li>
+            <a href="https://www.youtube.com/user/{{ author.python }}" itemprop="sameAs" target="_blank">
+              <i class="fa fa-fw fa-python-square" aria-hidden="true"></i> Python Videos
+            </a>
+          </li>
+        {% endif %}
+      {% endif %}
+      
       {% if author.soundcloud %}
         <li>
           <a href="https://soundcloud.com/{{ author.soundcloud }}" itemprop="sameAs">
