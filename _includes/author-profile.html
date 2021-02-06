@@ -199,14 +199,13 @@
         {% if author.python contains "://" %}
           <li>
             <a href="{{ author.python }}" itemprop="sameAs" target="_blank">
-<!--               <i class="fa fa-fw fa-python-square" aria-hidden="true"></i> Python Videos -->
-              <i class="fab fa-python" aria-hidden="true">></i> Python Videos
+              <i class="fab fa-python">></i> Python Videos
             </a>
           </li>
         {% else author.python %}
           <li>
             <a href="https://www.youtube.com/user/{{ author.python }}" itemprop="sameAs" target="_blank">
-              <i class="fab fa-python" aria-hidden="true"></i> Python Videos
+              <i class="fab fa-python"></i> Python Videos
             </a>
           </li>
         {% endif %}
