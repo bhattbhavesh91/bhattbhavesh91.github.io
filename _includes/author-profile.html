@@ -183,13 +183,13 @@
         {% if author.youtube contains "://" %}
           <li>
             <a href="{{ author.youtube }}" itemprop="sameAs" target="_blank">
-              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube
+              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> ML Videos
             </a>
           </li>
         {% else author.youtube %}
           <li>
             <a href="https://www.youtube.com/user/{{ author.youtube }}" itemprop="sameAs" target="_blank">
-              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube
+              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> ML Videos
             </a>
           </li>
         {% endif %}
@@ -199,7 +199,8 @@
         {% if author.python contains "://" %}
           <li>
             <a href="{{ author.python }}" itemprop="sameAs" target="_blank">
-              <i class="fa fa-fw fa-python-square" aria-hidden="true"></i> Python Videos
+<!--               <i class="fa fa-fw fa-python-square" aria-hidden="true"></i> Python Videos -->
+              <i class="fab fa-youtube-square" aria-hidden="true">></i> Python Videos
             </a>
           </li>
         {% else author.python %}
