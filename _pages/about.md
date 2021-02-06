@@ -69,4 +69,4 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 <a href="https://github.com/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/gthb.png" width="30" height="30"></a>
 <a href="https://medium.com/@bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/medium.png" width="30" height="30"></a>
 <a href="https://linktr.ee/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/linktree.png" width="30" height="30"></a>
-<a href="https://about.me/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/aboutme.png" width="30" height="30"></a>
+<a href="https://about.me/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/aboutdotme1.png" width="30" height="30"></a>
