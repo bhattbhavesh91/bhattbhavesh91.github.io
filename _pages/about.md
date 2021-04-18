@@ -64,6 +64,18 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 <!--End mc_embed_signup-->
 
 
+<table font-size:30px;>
+   <tr>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UC8ofcOdHNINiPrBA9D59Vaw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Machine%20Learning%20channel"></a></td>
+      <td><a href="https://www.youtube.com/BhaveshBhatt8791?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UC8ofcOdHNINiPrBA9D59Vaw?color=blue&label=Views&logo=YouTube&style=flat-square"></a></td>
+   </tr>
+      <tr>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" src = "https://img.shields.io/youtube/channel/subscribers/UCo_uTt4go2qs8xOJaUgsiiw?style=social&logo=Youtube&label=Subscribe%20to%20my%20Python%20channel"></a></td>
+      <td><a href="https://www.youtube.com/c/PythonTricks?sub_confirmation=1" target="_blank"><img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCo_uTt4go2qs8xOJaUgsiiw?color=Yellow&label=Views&logo=YouTube&logoColor=Red&style=flat-square"></a></td>
+   </tr>
+</table>
+
+
 ## Follow Me
 <a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30" height="30"></a>
 <a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30" height="30"></a>
