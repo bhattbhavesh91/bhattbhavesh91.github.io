@@ -10,8 +10,8 @@ main:
     url: /mlvideos/
   - title: "Talks"
     url: /talks/
-  - title: "Google Actions"
-    url: /assistantactions/
+#   - title: "Google Actions"
+#     url: /assistantactions/
   - title: "External Link"
     url: https://google.com
 
