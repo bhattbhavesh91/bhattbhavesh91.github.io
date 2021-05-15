@@ -12,7 +12,10 @@ main:
     url: /talks/
   - title: "Google Actions"
     url: /assistantactions/
-  #- title: "Contact"
+  - title: "External Link"
+    url: https://google.com
+
+#- title: "Contact"
   #  url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
