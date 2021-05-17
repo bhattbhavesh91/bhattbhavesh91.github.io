@@ -23,6 +23,10 @@ title: "Talks"
 ![Mantissa DS Meetup](/assets/images/Mantissa_29th_Feb.jpg)
 &nbsp;  
 
+### Google I/O 2021 - Landmark Detection using TensorFlow Hub (20th May 2021)
+&nbsp;  
+![Google IO](/assets/images/GoogleIO_Poster.PNG)
+&nbsp; 
 
 ## Follow Me
 <a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30" height="30"></a>
