@@ -65,6 +65,10 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 
 <!--End mc_embed_signup-->
 
+**If you like my work, you can support me by buying me a coffee by clicking the link below**
+
+<a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Follow Me &#8595;
 <a href="https://www.youtube.com/bhaveshbhatt8791/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/ytb.png" width="30" height="30"></a>
 <a href="https://www.youtube.com/PythonTricks/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/python_logo.png" width="30" height="30"></a>
