@@ -226,6 +226,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.coffee %}
+      <li>
+        <a href="https://www.buymeacoffee.com/{{ author.coffee }}" itemprop="sameAs" target="_blank">
+          <i class="fa fa-fw fa-coffee" aria-hidden="true"></i> Buy Me a Coffee
+        </a>
+      </li>
+      {% endif %}
 
       {% if author.weibo %}
         <li>
