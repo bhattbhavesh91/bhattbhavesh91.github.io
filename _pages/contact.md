@@ -32,7 +32,7 @@ Please free to drop a mail for Product unboxing, GPU's unboxing and any other co
     <button type="submit">Send</button>
 </form>
 <!---&nbsp;-->
-
+&nbsp;
 **PS** - I have a full time job and when not working, I do side projects (YouTube videos, open-source projects, consulting projects). I have very little free time. I try to read most of the messages, but hope you understand that not all can get a personal response. Unfortunately due to my schedule, I don't have time for personal mentorship so there may not be responses for these requests. To get started in Data Science or if you are stuck in a Data science/Python syntax issue, Google and Stack Overflow are your best friends :)
 &nbsp;
 
