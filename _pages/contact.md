@@ -78,3 +78,5 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 <a href="https://medium.com/@bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/medium.png" width="30" height="30"></a>
 <a href="https://linktr.ee/bhattbhavesh91" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/linktree.png" width="30" height="30"></a>
 <a href="https://about.me/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/aboutdotme1.png" width="30" height="30"></a>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbhattbhavesh91.github.io%2Fabout%2F&count_bg=%23433DC8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Website+Visits&edge_flat=true)](https://hits.seeyoufarm.com)
