@@ -12,11 +12,13 @@ classes: wide
 
 I am a Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning. I have designed & deployed multiple machine learning & deep learning models that have had a significant business impact.
 
-I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019.
+I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019. You can check my GDE profile [here](https://developers.google.cn/community/experts/directory/profile/profile-bhavesh-bhatt)
 
-I have also been awarded the prestigious **40 Under 40 Data Scientist award** by Analytics India Magazine in January 2020.
+I have also been awarded the prestigious **40 Under 40 Data Scientist award** by Analytics India Magazine in January 2020. [Link](https://analyticsindiamag.com/40-under-40-data-scientists-in-india-2020-who-are-they/)
 
-I am also extremely humbled to have more than **1300+** followers on **GitHub**.
+I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work. You can check my profile [here](https://stars.github.com/profiles/bhattbhavesh91/){:target="_blank"}   
+
+I am also extremely humbled to have more than **1400+** followers on **GitHub**.
 
 <!--- I have participated in multiple hackathons. Additionally, I have secured **Top 1%** rank (82) with over 8600+ submissions for the Food Demand Forecasting Hackathon - A Machine Learning Hackathon Dataset released by an American professional services firm, Genpact.  Link to the [**Challenge**](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/){:target="_blank"} & [**Rank**](/assets/images/av_rank_img.jpg){:target="_blank"}
 -->
@@ -27,7 +29,7 @@ I have worked with multiple EdTech startups in delivering sessions & developing 
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **270 videos** with **2 Million views** & **33k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **270 videos** with **2 Million views** & **35k+ subscribers**.
 
 To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}   
 
