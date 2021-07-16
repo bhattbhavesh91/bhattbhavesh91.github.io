@@ -36,7 +36,8 @@ My main idea of applying for the GDE program was to teach at scale and having cl
 # A few tips
 Don't apply for the tag, apply for the evangelism. GDE's didn't become GDE's with the aim of becoming GDE's. Being a GDE is really about giving back to the community. Find something that you enjoy doing (writing blogs, publishing books, creating content, public speaking) and how you can help others. I hope you found this blog informative.
 
-[Link to my GDE profile](https://developers.google.com/community/experts/directory/profile/profile-bhavesh_bhatt){:target="_blank"}
+<!-- [Link to my GDE profile](https://developers.google.com/community/experts/directory/profile/profile-bhavesh_bhatt){:target="_blank"} -->
+[Link to my GDE profile](https://developers.google.com/community/experts/directory/profile/profile-bhavesh-bhatt){:target="_blank"}
 
 
 ### Want to know more about me?
