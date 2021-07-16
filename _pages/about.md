@@ -12,9 +12,9 @@ classes: wide
 
 I am a Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning. I have designed & deployed multiple machine learning & deep learning models that have had a significant business impact.
 
-I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019. You can check my GDE profile [here](https://developers.google.cn/community/experts/directory/profile/profile-bhavesh-bhatt)
+I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019. You can check my GDE profile [here](https://developers.google.cn/community/experts/directory/profile/profile-bhavesh-bhatt){:target="_blank"}   .
 
-I have also been awarded the prestigious **40 Under 40 Data Scientist award** by Analytics India Magazine in January 2020. [Link](https://analyticsindiamag.com/40-under-40-data-scientists-in-india-2020-who-are-they/)
+I have also been awarded the prestigious **40 Under 40 Data Scientist award** by Analytics India Magazine in January 2020. [Link to the site](https://analyticsindiamag.com/40-under-40-data-scientists-in-india-2020-who-are-they/){:target="_blank"}   
 
 I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work. You can check my profile [here](https://stars.github.com/profiles/bhattbhavesh91/){:target="_blank"}   
 
