@@ -6,19 +6,19 @@ tags: []
 description: I got recognized as a GitHub Star by GitHub
 
 ---
-
-I am humbled to share that I have been recognized by GitHub as a GitHub Star ⭐ on 23rd July , 2021
+The GitHub Stars program thanks GitHub’s most influential developers and gives them a platform to showcase their work, reach more people, and shape the future of GitHub. I am humbled to share that I have been recognized by GitHub as a GitHub Star ⭐ on 23rd July , 2021
 
 &nbsp;  
 ![Star1](/assets/images/GitHub_Star_1.jpeg)  
 &nbsp;  
-&nbsp;  
+&nbsp;   
 ![Star2](/assets/images/GitHub_Star_2.jpeg)  
 &nbsp;  
 &nbsp;  
 ![Star3](/assets/images/GitHub_Star_3.jpeg)  
 &nbsp;  
-
+&nbsp;    
+[Link to my Profile](https://stars.github.com/profiles/bhattbhavesh91/)
 
 ### Want to know more about me?
 ## Follow Me
