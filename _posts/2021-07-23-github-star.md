@@ -11,9 +11,10 @@ I am humbled to share that I have been recognized by GitHub as a GitHub Star ⭐
 
 &nbsp;  
 ![Star1](/assets/images/GitHub_Star_1.jpeg)  
-<!--**Image Credits: Courtesy Google Developer Experts**-->
+&nbsp;  
 &nbsp;  
 ![Star2](/assets/images/GitHub_Star_2.jpeg)  
+&nbsp;  
 &nbsp;  
 ![Star3](/assets/images/GitHub_Star_3.jpeg)  
 &nbsp;  
