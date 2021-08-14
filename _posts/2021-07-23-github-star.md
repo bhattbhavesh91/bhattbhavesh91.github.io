@@ -19,7 +19,9 @@ The GitHub Stars program thanks GitHub’s most influential developers and gives
 &nbsp;  
 &nbsp;    
 [Link to my Profile](https://stars.github.com/profiles/bhattbhavesh91/)
-
+&nbsp;  
+&nbsp;  
+![Star3](/assets/images/GitHub_Star_4.jpeg) 
 ### Want to know more about me?
 ## Follow Me
 <a href="https://twitter.com/_bhaveshbhatt" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/tw.png" width="30"></a>
