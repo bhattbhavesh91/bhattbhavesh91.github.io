@@ -25,7 +25,7 @@ I am also extremely humbled to have more than **1400+** followers on **GitHub**.
 
 I did my postgraduate degree in Embedded Systems at at **Birla Institute of Technology and Science, Pilani** in 2016.
 
-I have worked with multiple EdTech startups in delivering sessions & developing their machine learning course curriculum. I have also closely worked with Data Science aspirants to help them transition into a Data Science Career. 
+I have worked with multiple EdTech startups like [Great Learning](https://www.greatlearning.in/){:target="_blank"}, [GreyAtom](https://greyatom.com/){:target="_blank"} and [upGrad](https://www.upgrad.com/){:target="_blank"} in delivering sessions & developing their machine learning course curriculum. I have also closely worked with Data Science aspirants to help them transition into a Data Science Career. 
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
