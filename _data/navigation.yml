@@ -6,6 +6,8 @@ main:
     url: /contact/
   - title: "Mentorship"
     url: /mentorship/
+  - title: "Certifications"
+    url: /certifications/
   - title: "ML Videos"
     url: /mlvideos/
   - title: "Talks"
