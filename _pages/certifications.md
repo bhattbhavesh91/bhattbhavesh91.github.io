@@ -3,13 +3,8 @@ permalink: /certifications/
 title: "Certifications"
 ---
 
-## Certifications
-
-[Data Storytelling for Business - StoryIQ](https://www.credential.net/1216b0d9-a41c-4dcf-a967-cfb518089e31#gs.ahtmi0){:target="_blank"}
-
-&nbsp;  
+[Data Storytelling for Business - StoryIQ](https://www.credential.net/1216b0d9-a41c-4dcf-a967-cfb518089e31#gs.ahtmi0){:target="_blank"} 
 ![Google Developer Experts](/assets/images/Data_Storytelling_Business.jpeg)  
-&nbsp;  
 
 ----
 
