@@ -59,6 +59,14 @@
       </li>
       {% endif %}
       
+      {% if author.sponsor %}
+        <li>
+          <a href="https://github.com/sponsors/{{ author.sponsor }}" itemprop="sameAs" target="_blank">
+            <i class="fa fa-fw fa-bitcoin" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+      
       {% if author.keybase %}
         <li>
           <a href="https://keybase.io/{{ author.keybase }}" itemprop="sameAs">
