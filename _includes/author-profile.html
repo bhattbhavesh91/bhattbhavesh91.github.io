@@ -138,6 +138,14 @@
           </a>
         </li>
       {% endif %}
+      
+      {% if author.telegram %}
+        <li>
+          <a href="https://t.me/{{ author.telegram }}" itemprop="sameAs" target="_blank">
+            <i class="fa fa-fw fa-telegram" aria-hidden="true"></i> Telegram
+          </a>
+        </li>
+      {% endif %}
 
       {% if author.stackoverflow %}
         <li>
@@ -235,14 +243,6 @@
         </li>
       {% endif %}
       
-      {% if author.telegram %}
-        <li>
-          <a href="https://t.me/{{ author.telegram }}" itemprop="sameAs" target="_blank">
-            <i class="fa fa-fw fa-telegram" aria-hidden="true"></i> Telegram
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.weibo %}
         <li>
           <a href="https://www.weibo.com/{{ author.weibo }}" itemprop="sameAs">
