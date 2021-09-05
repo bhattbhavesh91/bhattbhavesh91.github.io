@@ -3,10 +3,10 @@ permalink: /certifications/
 title: "Certifications"
 ---
 
-[PDE](https://www.credential.net/58873c32-ba31-4c7a-b84c-c87866aa6751){:target="_blank"}
+[Google Cloud Professional Data Engineer Certification](https://www.credential.net/58873c32-ba31-4c7a-b84c-c87866aa6751){:target="_blank"}
 
 &nbsp;
-![PDE](/assets/images/pde.jpeg)  
+![Google Cloud Professional Data Engineer Certification](/assets/images/pde.jpeg)  
 &nbsp;
 
 [Data Storytelling for Business - StoryIQ](https://www.credential.net/1216b0d9-a41c-4dcf-a967-cfb518089e31#gs.ahtmi0){:target="_blank"}
