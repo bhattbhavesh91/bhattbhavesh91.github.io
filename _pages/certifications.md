@@ -4,14 +4,10 @@ title: "Certifications"
 ---
 
 [Google Cloud Professional Data Engineer Certification](https://www.credential.net/58873c32-ba31-4c7a-b84c-c87866aa6751){:target="_blank"}
-
-&nbsp;
 ![Google Cloud Professional Data Engineer Certification](/assets/images/pde.jpeg)  
 &nbsp;
 
 [Data Storytelling for Business - StoryIQ](https://www.credential.net/1216b0d9-a41c-4dcf-a967-cfb518089e31#gs.ahtmi0){:target="_blank"}
-
-&nbsp;
 ![Data_Storytelling_Business_Certi](/assets/images/Data_Storytelling_Business.jpeg)  
 &nbsp;
 
