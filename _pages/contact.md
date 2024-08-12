@@ -14,8 +14,9 @@ In case you plan to collaborate or want help in machine learning projects, feel 
 If you want to have a chat with me regarding work opportunities, or paid collaboration, shoot an email at 
 Please free to drop a mail for Product unboxing, GPU's unboxing and any other collaboration
 -->
-
-<form action="https://formspree.io/f/mjvppzjq" method="POST" enctype="multipart/form-data">
+<form action="https://formspree.io/f/mjvppzjq" method="POST">
+<!-- <form action="https://formspree.io/f/mjvppzjq" method="POST" enctype="multipart/form-data"> -->
+	
     <label>
         Your name:
         <input type="text" name="_name" required />
@@ -29,9 +30,6 @@ Please free to drop a mail for Product unboxing, GPU's unboxing and any other co
         Your message:
         <textarea name="message" required></textarea>
     </label>
-    
-    <label for="file">Upload a File:</label>
-    <input type="file" name="file" id="file">
     
     <button type="submit">Send</button>
 </form>
