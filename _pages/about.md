@@ -10,7 +10,7 @@ classes: wide
 <!---I am a Data Scientist based out of Mumbai, India. Currently working at Cuddle.ai where I focus on building time series anomaly detection algorithms. My primary interests include Computer Vision, Machine Learning, Deep Learning.
 -->
 
-I am a Senior Data Scientist based out of Mumbai, India. My primary interests include Computer Vision, Machine Learning, Deep Learning. I have designed & deployed multiple machine learning & deep learning models that have had a significant business impact.
+I am a Lead Data Scientist based out of Mumbai, India. My primary interests include Generative AI, LLMs, Computer Vision, Machine Learning, Deep Learning. I have designed & deployed multiple GenAI, machine learning & deep learning models that have had a significant business impact.
 
 I am a **Google Developer Expert (GDE)** in Machine Learning since October 2019. You can check my GDE profile [here](https://developers.google.com/community/experts/directory/profile/profile-bhavesh-bhatt){:target="_blank"}.
 
@@ -18,7 +18,23 @@ I have also been awarded the prestigious **40 Under 40 Data Scientist award** by
 
 I am humbled to share that I have been recognized by **GitHub** as a **GitHub Star** in July 2021. 69th worldwide out of ~65 million developers on GitHub. It feels great to be recognized for my open-source work. You can check my profile [here](https://stars.github.com/profiles/bhattbhavesh91/){:target="_blank"}.  
 
-I am also extremely humbled to have more than **2200+** followers on **GitHub**.
+I am also extremely humbled to have more than **2400+** followers on **GitHub**.
+
+I am truly humbled to be a member of the **Google Cloud Innovator Program**, having joined in December 2021.
+
+In February 2023, I attained the status of a **Neo4j Ninja** 🥷 & by April of the same year, I had the honor of receiving the Community Excellence award at **Graphsummit 2023**, Neo4j's prestigious event.
+
+The privilege of being selected as a **Gartner Peer Community Ambassador** for Data & Analytics in October 2023 is a source of deep honor and reinforces my commitment to the field.
+
+The experience of developing a product that secured the esteemed **Best AI/ML Product of the Year** award at Cypher 2022, along with receiving recognition for my Generative AI project at Cypher 2023 has been genuinely humbling.
+
+Attending the inaugural **Indian National Creators Award** in March 2024 was undeniably a remarkable privilege.
+
+Out of over **60,000+** applicants from more than 100 countries, I was honored to be one of the 10 selected to compete in the inaugral **Global Prompt Engineering Championship** in the literature category in Dubai.
+
+Thrilled & humbled to be recognized as one of the **Top 10 AI Community Contributors** at the **AV Luminary Awards**, presented by Analytics Vidhya at DataHack Summit 2024.
+
+In February 2025, I was honored with the prestigious **Digital Trendsetter** award at the Google Community Summit in Kovalam, India.
 
 <!--- I have participated in multiple hackathons. Additionally, I have secured **Top 1%** rank (82) with over 8600+ submissions for the Food Demand Forecasting Hackathon - A Machine Learning Hackathon Dataset released by an American professional services firm, Genpact.  Link to the [**Challenge**](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/){:target="_blank"} & [**Rank**](/assets/images/av_rank_img.jpg){:target="_blank"}
 -->
@@ -79,3 +95,4 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 <a href="https://about.me/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/aboutdotme1.png" width="30" height="30"></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbhattbhavesh91.github.io%2Fabout%2F&count_bg=%23433DC8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Website+Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+
