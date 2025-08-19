@@ -45,7 +45,7 @@ I have worked with multiple EdTech startups like [Great Learning](https://www.gr
 
 I have also reviewed multiple machine learning books by giving continuous feedback to the author on each topic to make the book more intuitive & interesting for students. 
 
-In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **370 videos** with **4 Million views** & **50k+ subscribers**.
+In order to give back to the community from which I learnt so much I started creating videos on YouTube & currently I have close to **370 videos** with **6 Million views** & **110k+ subscribers**.
 
 To view my Machine Learning based YouTube channel &#10230; [Click here](https://youtube.com/BhaveshBhatt8791){:target="_blank"}   
 
@@ -95,4 +95,5 @@ Summary of new videos & posts that I'll create will be shared once a month. Get 
 <a href="https://about.me/bhattbhavesh91/" target="_blank"><img class="ai-subscribed-social-icon" src="/assets/images/aboutdotme1.png" width="30" height="30"></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fbhattbhavesh91.github.io%2Fabout%2F&count_bg=%23433DC8&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Website+Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 
